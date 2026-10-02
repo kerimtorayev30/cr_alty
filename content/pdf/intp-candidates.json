@@ -1,0 +1,5372 @@
+[
+ {
+  "en": "bill",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "cinema",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "don’t",
+  "src": "10A",
+  "page": 137,
+  "evidence": "key"
+ },
+ {
+  "en": "flat",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "lift",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "mobile phone",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "opinions to",
+  "src": "10A",
+  "page": 139,
+  "evidence": "teach"
+ },
+ {
+  "en": "postcode",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "prison yard",
+  "src": "10A",
+  "page": 140,
+  "evidence": "notes"
+ },
+ {
+  "en": "rubbish",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "secondary school",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "stressed",
+  "src": "10A",
+  "page": 138,
+  "evidence": "key"
+ },
+ {
+  "en": "toilet",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "trainers",
+  "src": "10A",
+  "page": 140,
+  "evidence": "key"
+ },
+ {
+  "en": "unstressed",
+  "src": "10A",
+  "page": 138,
+  "evidence": "key"
+ },
+ {
+  "en": "because",
+  "src": "10B",
+  "page": 144,
+  "evidence": "key"
+ },
+ {
+  "en": "instead of",
+  "src": "10B",
+  "page": 144,
+  "evidence": "key"
+ },
+ {
+  "en": "interested",
+  "src": "10B",
+  "page": 146,
+  "evidence": "key"
+ },
+ {
+  "en": "opinions on",
+  "src": "10B",
+  "page": 144,
+  "evidence": "teach"
+ },
+ {
+  "en": "some opinions",
+  "src": "10B",
+  "page": 145,
+  "evidence": "teach"
+ },
+ {
+  "en": "aerobics",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "Afghanistan",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "Amy",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "answers and",
+  "src": "1A",
+  "page": 13,
+  "evidence": "teach"
+ },
+ {
+  "en": "answers from",
+  "src": "1A",
+  "page": 27,
+  "evidence": "teach"
+ },
+ {
+  "en": "any new",
+  "src": "1A",
+  "page": 14,
+  "evidence": "teach"
+ },
+ {
+  "en": "any vocabulary",
+  "src": "1A",
+  "page": 13,
+  "evidence": "teach"
+ },
+ {
+  "en": "Anya f",
+  "src": "1A",
+  "page": 14,
+  "evidence": "key"
+ },
+ {
+  "en": "anything",
+  "src": "1A",
+  "page": 107,
+  "evidence": "key"
+ },
+ {
+  "en": "Aquae Sulis",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "as much",
+  "src": "1A",
+  "page": 55,
+  "evidence": "teach"
+ },
+ {
+  "en": "audience",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "away",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "basic rules",
+  "src": "1A",
+  "page": 104,
+  "evidence": "teach"
+ },
+ {
+  "en": "basketball",
+  "src": "1A",
+  "page": 101,
+  "evidence": "notes"
+ },
+ {
+  "en": "Bath Abbey",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "being told",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "better",
+  "src": "1A",
+  "page": 63,
+  "evidence": "key"
+ },
+ {
+  "en": "box office",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "business",
+  "src": "1A",
+  "page": 108,
+  "evidence": "key"
+ },
+ {
+  "en": "cash machine",
+  "src": "1A",
+  "page": 96,
+  "evidence": "key"
+ },
+ {
+  "en": "Charlotte",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "check your",
+  "src": "1A",
+  "page": 96,
+  "evidence": "notes"
+ },
+ {
+  "en": "close down",
+  "src": "1A",
+  "page": 98,
+  "evidence": "key"
+ },
+ {
+  "en": "course",
+  "src": "1A",
+  "page": 107,
+  "evidence": "key"
+ },
+ {
+  "en": "crypt",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "Deborah",
+  "src": "1A",
+  "page": 14,
+  "evidence": "key"
+ },
+ {
+  "en": "defeated",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "Diana",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "different possibilities",
+  "src": "1A",
+  "page": 15,
+  "evidence": "teach"
+ },
+ {
+  "en": "dome",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "don’t have to",
+  "src": "1A",
+  "page": 63,
+  "evidence": "key"
+ },
+ {
+  "en": "eco-friendly",
+  "src": "1A",
+  "page": 107,
+  "evidence": "key"
+ },
+ {
+  "en": "egg /e/",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "else",
+  "src": "1A",
+  "page": 107,
+  "evidence": "key"
+ },
+ {
+  "en": "Emily",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "Emily /e/",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "etc",
+  "src": "1A",
+  "page": 27,
+  "evidence": "notes"
+ },
+ {
+  "en": "expression",
+  "src": "1A",
+  "page": 97,
+  "evidence": "teach"
+ },
+ {
+  "en": "food",
+  "src": "1A",
+  "page": 60,
+  "evidence": "key"
+ },
+ {
+  "en": "food waste",
+  "src": "1A",
+  "page": 55,
+  "evidence": "key"
+ },
+ {
+  "en": "football",
+  "src": "1A",
+  "page": 101,
+  "evidence": "notes"
+ },
+ {
+  "en": "fridge",
+  "src": "1A",
+  "page": 57,
+  "evidence": "key"
+ },
+ {
+  "en": "from the",
+  "src": "1A",
+  "page": 101,
+  "evidence": "teach"
+ },
+ {
+  "en": "gave",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "goes to waste",
+  "src": "1A",
+  "page": 55,
+  "evidence": "key"
+ },
+ {
+  "en": "have to",
+  "src": "1A",
+  "page": 63,
+  "evidence": "key"
+ },
+ {
+  "en": "how to",
+  "src": "1A",
+  "page": 55,
+  "evidence": "teach"
+ },
+ {
+  "en": "in a sports arena",
+  "src": "1A",
+  "page": 101,
+  "evidence": "notes"
+ },
+ {
+  "en": "in which",
+  "src": "1A",
+  "page": 102,
+  "evidence": "teach"
+ },
+ {
+  "en": "India",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "interval",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "July / August",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "Khari f",
+  "src": "1A",
+  "page": 14,
+  "evidence": "key"
+ },
+ {
+  "en": "Korea and China",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "legal",
+  "src": "1A",
+  "page": 63,
+  "evidence": "key"
+ },
+ {
+  "en": "Leo",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "living",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "look round",
+  "src": "1A",
+  "page": 98,
+  "evidence": "key"
+ },
+ {
+  "en": "manicure",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "massage",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "matinee",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "meaning of",
+  "src": "1A",
+  "page": 12,
+  "evidence": "teach"
+ },
+ {
+  "en": "meaning where",
+  "src": "1A",
+  "page": 101,
+  "evidence": "teach"
+ },
+ {
+  "en": "message",
+  "src": "1A",
+  "page": 57,
+  "evidence": "key"
+ },
+ {
+  "en": "my flat painted",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "my hair cut",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "my photo taken",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "names of",
+  "src": "1A",
+  "page": 13,
+  "evidence": "teach"
+ },
+ {
+  "en": "new sentence",
+  "src": "1A",
+  "page": 16,
+  "evidence": "teach"
+ },
+ {
+  "en": "OK",
+  "src": "1A",
+  "page": 107,
+  "evidence": "key"
+ },
+ {
+  "en": "opinions from",
+  "src": "1A",
+  "page": 100,
+  "evidence": "teach"
+ },
+ {
+  "en": "opponent",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "other words",
+  "src": "1A",
+  "page": 56,
+  "evidence": "teach"
+ },
+ {
+  "en": "paid",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "Palace",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "paper",
+  "src": "1A",
+  "page": 60,
+  "evidence": "key"
+ },
+ {
+  "en": "password",
+  "src": "1A",
+  "page": 107,
+  "evidence": "key"
+ },
+ {
+  "en": "pedicure",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "performance",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "plot",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "response from",
+  "src": "1A",
+  "page": 99,
+  "evidence": "teach"
+ },
+ {
+  "en": "Russia",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "Sam",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "sauce",
+  "src": "1A",
+  "page": 60,
+  "evidence": "key"
+ },
+ {
+  "en": "Sean f",
+  "src": "1A",
+  "page": 14,
+  "evidence": "key"
+ },
+ {
+  "en": "settle down",
+  "src": "1A",
+  "page": 98,
+  "evidence": "key"
+ },
+ {
+  "en": "share",
+  "src": "1A",
+  "page": 57,
+  "evidence": "key"
+ },
+ {
+  "en": "should be paid",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "smoking",
+  "src": "1A",
+  "page": 107,
+  "evidence": "key"
+ },
+ {
+  "en": "some ideas",
+  "src": "1A",
+  "page": 100,
+  "evidence": "teach"
+ },
+ {
+  "en": "Spanish-speaking",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "stretches",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "such",
+  "src": "1A",
+  "page": 108,
+  "evidence": "key"
+ },
+ {
+  "en": "supply",
+  "src": "1A",
+  "page": 55,
+  "evidence": "key"
+ },
+ {
+  "en": "supply chain",
+  "src": "1A",
+  "page": 55,
+  "evidence": "key"
+ },
+ {
+  "en": "Sure",
+  "src": "1A",
+  "page": 107,
+  "evidence": "key"
+ },
+ {
+  "en": "that this",
+  "src": "1A",
+  "page": 12,
+  "evidence": "teach"
+ },
+ {
+  "en": "the Great Bath",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "the particle",
+  "src": "1A",
+  "page": 55,
+  "evidence": "notes"
+ },
+ {
+  "en": "the Pump Room",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "the Terrace",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "the UK",
+  "src": "1A",
+  "page": 13,
+  "evidence": "key"
+ },
+ {
+  "en": "Throw it away",
+  "src": "1A",
+  "page": 55,
+  "evidence": "notes"
+ },
+ {
+  "en": "tomb",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "tray",
+  "src": "1A",
+  "page": 60,
+  "evidence": "key"
+ },
+ {
+  "en": "two stories",
+  "src": "1A",
+  "page": 100,
+  "evidence": "teach"
+ },
+ {
+  "en": "vocabulary for",
+  "src": "1A",
+  "page": 55,
+  "evidence": "teach"
+ },
+ {
+  "en": "was built",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "waste money",
+  "src": "1A",
+  "page": 55,
+  "evidence": "notes"
+ },
+ {
+  "en": "watching",
+  "src": "1A",
+  "page": 104,
+  "evidence": "key"
+ },
+ {
+  "en": "what kind",
+  "src": "1A",
+  "page": 16,
+  "evidence": "teach"
+ },
+ {
+  "en": "whistle /w/",
+  "src": "1A",
+  "page": 122,
+  "evidence": "key"
+ },
+ {
+  "en": "why each",
+  "src": "1A",
+  "page": 58,
+  "evidence": "teach"
+ },
+ {
+  "en": "words and",
+  "src": "1A",
+  "page": 13,
+  "evidence": "teach"
+ },
+ {
+  "en": "above",
+  "src": "1B",
+  "page": 22,
+  "evidence": "key"
+ },
+ {
+  "en": "affectionate",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "assertive",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "black",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "blue",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "brown",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "careless",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "creative",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "envious",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "few",
+  "src": "1B",
+  "page": 20,
+  "evidence": "teach"
+ },
+ {
+  "en": "g a better driver",
+  "src": "1B",
+  "page": 21,
+  "evidence": "key"
+ },
+ {
+  "en": "g a cheap one",
+  "src": "1B",
+  "page": 21,
+  "evidence": "key"
+ },
+ {
+  "en": "g as sporty as",
+  "src": "1B",
+  "page": 21,
+  "evidence": "key"
+ },
+ {
+  "en": "g the most",
+  "src": "1B",
+  "page": 21,
+  "evidence": "key"
+ },
+ {
+  "en": "g the worst film",
+  "src": "1B",
+  "page": 21,
+  "evidence": "key"
+ },
+ {
+  "en": "glamorous",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "green",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "helpful",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "hopeful",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "impressive",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "impulsive",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "inside",
+  "src": "1B",
+  "page": 22,
+  "evidence": "key"
+ },
+ {
+  "en": "I’m",
+  "src": "1B",
+  "page": 18,
+  "evidence": "notes"
+ },
+ {
+  "en": "more",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "most",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "much",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "noisy",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "ones",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "orange",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "pink",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "powerful",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "profitable",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "purple",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "rebellious",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "red",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "reliable",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "restful",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "risky",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "sociable",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "spacious",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "stressed syllable",
+  "src": "1B",
+  "page": 18,
+  "evidence": "teach"
+ },
+ {
+  "en": "suitable",
+  "src": "1B",
+  "page": 202,
+  "evidence": "key"
+ },
+ {
+  "en": "superlative of",
+  "src": "1B",
+  "page": 21,
+  "evidence": "teach"
+ },
+ {
+  "en": "than",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "the most positive",
+  "src": "1B",
+  "page": 21,
+  "evidence": "key"
+ },
+ {
+  "en": "the saddest",
+  "src": "1B",
+  "page": 21,
+  "evidence": "key"
+ },
+ {
+  "en": "white",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "yellow",
+  "src": "1B",
+  "page": 20,
+  "evidence": "key"
+ },
+ {
+  "en": "chargers",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "clothes",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "comfortable shoes",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "good book",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "mobiles",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "pack",
+  "src": "2A",
+  "page": 28,
+  "evidence": "key"
+ },
+ {
+  "en": "passports",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "phone chargers",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "roll up",
+  "src": "2A",
+  "page": 28,
+  "evidence": "key"
+ },
+ {
+  "en": "security",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "shoe",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "shopping",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "sound for",
+  "src": "2A",
+  "page": 28,
+  "evidence": "teach"
+ },
+ {
+  "en": "sunglasses",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "too much",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "toothbrushes",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "unpack",
+  "src": "2A",
+  "page": 28,
+  "evidence": "key"
+ },
+ {
+  "en": "wallet",
+  "src": "2A",
+  "page": 29,
+  "evidence": "key"
+ },
+ {
+  "en": "annoying (negative",
+  "src": "2B",
+  "page": 35,
+  "evidence": "key"
+ },
+ {
+  "en": "back",
+  "src": "2B",
+  "page": 37,
+  "evidence": "key"
+ },
+ {
+  "en": "bakery",
+  "src": "2B",
+  "page": 36,
+  "evidence": "notes"
+ },
+ {
+  "en": "branches",
+  "src": "2B",
+  "page": 37,
+  "evidence": "key"
+ },
+ {
+  "en": "cows",
+  "src": "2B",
+  "page": 38,
+  "evidence": "key"
+ },
+ {
+  "en": "family",
+  "src": "2B",
+  "page": 38,
+  "evidence": "key"
+ },
+ {
+  "en": "furniture",
+  "src": "2B",
+  "page": 36,
+  "evidence": "notes"
+ },
+ {
+  "en": "g Keith and",
+  "src": "2B",
+  "page": 34,
+  "evidence": "key"
+ },
+ {
+  "en": "great (positive",
+  "src": "2B",
+  "page": 35,
+  "evidence": "key"
+ },
+ {
+  "en": "ideas",
+  "src": "2B",
+  "page": 37,
+  "evidence": "teach"
+ },
+ {
+  "en": "in a mall",
+  "src": "2B",
+  "page": 36,
+  "evidence": "notes"
+ },
+ {
+  "en": "in a shop",
+  "src": "2B",
+  "page": 33,
+  "evidence": "key"
+ },
+ {
+  "en": "local",
+  "src": "2B",
+  "page": 38,
+  "evidence": "key"
+ },
+ {
+  "en": "lorries",
+  "src": "2B",
+  "page": 38,
+  "evidence": "key"
+ },
+ {
+  "en": "love (positive",
+  "src": "2B",
+  "page": 35,
+  "evidence": "key"
+ },
+ {
+  "en": "loyal",
+  "src": "2B",
+  "page": 37,
+  "evidence": "key"
+ },
+ {
+  "en": "month",
+  "src": "2B",
+  "page": 38,
+  "evidence": "key"
+ },
+ {
+  "en": "my parents",
+  "src": "2B",
+  "page": 34,
+  "evidence": "key"
+ },
+ {
+  "en": "of mine",
+  "src": "2B",
+  "page": 34,
+  "evidence": "key"
+ },
+ {
+  "en": "online",
+  "src": "2B",
+  "page": 33,
+  "evidence": "key"
+ },
+ {
+  "en": "possible rules",
+  "src": "2B",
+  "page": 33,
+  "evidence": "teach"
+ },
+ {
+  "en": "producer",
+  "src": "2B",
+  "page": 38,
+  "evidence": "key"
+ },
+ {
+  "en": "stocks",
+  "src": "2B",
+  "page": 37,
+  "evidence": "key"
+ },
+ {
+  "en": "the centre of London",
+  "src": "2B",
+  "page": 34,
+  "evidence": "key"
+ },
+ {
+  "en": "the dentist’s",
+  "src": "2B",
+  "page": 36,
+  "evidence": "notes"
+ },
+ {
+  "en": "the doctor’s",
+  "src": "2B",
+  "page": 36,
+  "evidence": "notes"
+ },
+ {
+  "en": "twice",
+  "src": "2B",
+  "page": 38,
+  "evidence": "key"
+ },
+ {
+  "en": "word and",
+  "src": "2B",
+  "page": 34,
+  "evidence": "teach"
+ },
+ {
+  "en": "Alex",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "always hated",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "David",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "ideas from",
+  "src": "3A",
+  "page": 41,
+  "evidence": "teach"
+ },
+ {
+  "en": "if each",
+  "src": "3A",
+  "page": 44,
+  "evidence": "teach"
+ },
+ {
+  "en": "Magda",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "Past",
+  "src": "3A",
+  "page": 44,
+  "evidence": "key"
+ },
+ {
+  "en": "Present",
+  "src": "3A",
+  "page": 44,
+  "evidence": "key"
+ },
+ {
+  "en": "sentence onto",
+  "src": "3A",
+  "page": 44,
+  "evidence": "teach"
+ },
+ {
+  "en": "started",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "Stephen",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "used to have",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "used to like",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "was holding",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "went",
+  "src": "3A",
+  "page": 42,
+  "evidence": "key"
+ },
+ {
+  "en": "you to",
+  "src": "3A",
+  "page": 43,
+  "evidence": "teach"
+ },
+ {
+  "en": "across",
+  "src": "3B",
+  "page": 49,
+  "evidence": "key"
+ },
+ {
+  "en": "afraid",
+  "src": "3B",
+  "page": 54,
+  "evidence": "key"
+ },
+ {
+  "en": "answers in",
+  "src": "3B",
+  "page": 48,
+  "evidence": "teach"
+ },
+ {
+  "en": "apps",
+  "src": "3B",
+  "page": 47,
+  "evidence": "key"
+ },
+ {
+  "en": "background",
+  "src": "3B",
+  "page": 46,
+  "evidence": "key"
+ },
+ {
+  "en": "between",
+  "src": "3B",
+  "page": 49,
+  "evidence": "key"
+ },
+ {
+  "en": "camera",
+  "src": "3B",
+  "page": 47,
+  "evidence": "key"
+ },
+ {
+  "en": "charge",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "delete",
+  "src": "3B",
+  "page": 47,
+  "evidence": "key"
+ },
+ {
+  "en": "difference",
+  "src": "3B",
+  "page": 45,
+  "evidence": "teach"
+ },
+ {
+  "en": "drivers",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "everything",
+  "src": "3B",
+  "page": 51,
+  "evidence": "teach"
+ },
+ {
+  "en": "Hang",
+  "src": "3B",
+  "page": 54,
+  "evidence": "key"
+ },
+ {
+  "en": "has been found",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "has two flat tyres",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "hired",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "in the background",
+  "src": "3B",
+  "page": 45,
+  "evidence": "key"
+ },
+ {
+  "en": "into",
+  "src": "3B",
+  "page": 49,
+  "evidence": "key"
+ },
+ {
+  "en": "kind",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "knows",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "later",
+  "src": "3B",
+  "page": 54,
+  "evidence": "key"
+ },
+ {
+  "en": "least",
+  "src": "3B",
+  "page": 54,
+  "evidence": "key"
+ },
+ {
+  "en": "make dinner for",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "manual",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "models",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "models of",
+  "src": "3B",
+  "page": 53,
+  "evidence": "teach"
+ },
+ {
+  "en": "next to",
+  "src": "3B",
+  "page": 48,
+  "evidence": "key"
+ },
+ {
+  "en": "on top of",
+  "src": "3B",
+  "page": 45,
+  "evidence": "key"
+ },
+ {
+  "en": "opinions",
+  "src": "3B",
+  "page": 50,
+  "evidence": "teach"
+ },
+ {
+  "en": "over",
+  "src": "3B",
+  "page": 48,
+  "evidence": "key"
+ },
+ {
+  "en": "petrol",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "pretty",
+  "src": "3B",
+  "page": 54,
+  "evidence": "key"
+ },
+ {
+  "en": "rent a car",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "round",
+  "src": "3B",
+  "page": 49,
+  "evidence": "key"
+ },
+ {
+  "en": "screen",
+  "src": "3B",
+  "page": 47,
+  "evidence": "key"
+ },
+ {
+  "en": "see",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "style",
+  "src": "3B",
+  "page": 47,
+  "evidence": "key"
+ },
+ {
+  "en": "taking",
+  "src": "3B",
+  "page": 45,
+  "evidence": "key"
+ },
+ {
+  "en": "that the",
+  "src": "3B",
+  "page": 52,
+  "evidence": "teach"
+ },
+ {
+  "en": "Three",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "tone",
+  "src": "3B",
+  "page": 54,
+  "evidence": "key"
+ },
+ {
+  "en": "towards",
+  "src": "3B",
+  "page": 49,
+  "evidence": "key"
+ },
+ {
+  "en": "under",
+  "src": "3B",
+  "page": 49,
+  "evidence": "key"
+ },
+ {
+  "en": "vandals",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "where it",
+  "src": "3B",
+  "page": 45,
+  "evidence": "teach"
+ },
+ {
+  "en": "will like Luke",
+  "src": "3B",
+  "page": 52,
+  "evidence": "key"
+ },
+ {
+  "en": "carton",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "give away",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "lid",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "packet",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "plastic bags",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "Recycle",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "refuse collectors",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "take out",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "throw away",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "tin",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "wrapper",
+  "src": "4A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "any lexis",
+  "src": "4B",
+  "page": 66,
+  "evidence": "teach"
+ },
+ {
+  "en": "didn’t",
+  "src": "4B",
+  "page": 65,
+  "evidence": "key"
+ },
+ {
+  "en": "earned",
+  "src": "4B",
+  "page": 65,
+  "evidence": "key"
+ },
+ {
+  "en": "think",
+  "src": "4B",
+  "page": 65,
+  "evidence": "key"
+ },
+ {
+  "en": "won’t",
+  "src": "4B",
+  "page": 65,
+  "evidence": "key"
+ },
+ {
+  "en": "wouldn’t",
+  "src": "4B",
+  "page": 65,
+  "evidence": "key"
+ },
+ {
+  "en": "You might",
+  "src": "4B",
+  "page": 65,
+  "evidence": "key"
+ },
+ {
+  "en": "b berry",
+  "src": "5A",
+  "page": 70,
+  "evidence": "key"
+ },
+ {
+  "en": "b bull",
+  "src": "5A",
+  "page": 70,
+  "evidence": "key"
+ },
+ {
+  "en": "b V",
+  "src": "5A",
+  "page": 70,
+  "evidence": "key"
+ },
+ {
+  "en": "b win",
+  "src": "5A",
+  "page": 70,
+  "evidence": "key"
+ },
+ {
+  "en": "boat",
+  "src": "5A",
+  "page": 70,
+  "evidence": "key"
+ },
+ {
+  "en": "cookery programme",
+  "src": "5A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "Please",
+  "src": "5A",
+  "page": 69,
+  "evidence": "notes"
+ },
+ {
+  "en": "Please turn on the",
+  "src": "5A",
+  "page": 69,
+  "evidence": "notes"
+ },
+ {
+  "en": "programme or",
+  "src": "5A",
+  "page": 71,
+  "evidence": "teach"
+ },
+ {
+  "en": "quiz show",
+  "src": "5A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "season",
+  "src": "5A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "series",
+  "src": "5A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "sitcom",
+  "src": "5A",
+  "page": 69,
+  "evidence": "notes"
+ },
+ {
+  "en": "soap",
+  "src": "5A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "streaming services",
+  "src": "5A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "that a",
+  "src": "5A",
+  "page": 69,
+  "evidence": "teach"
+ },
+ {
+  "en": "turn over",
+  "src": "5A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "weather forecast",
+  "src": "5A",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "what kinds",
+  "src": "5A",
+  "page": 71,
+  "evidence": "teach"
+ },
+ {
+  "en": "what the",
+  "src": "5A",
+  "page": 70,
+  "evidence": "teach"
+ },
+ {
+  "en": "why either",
+  "src": "5A",
+  "page": 72,
+  "evidence": "teach"
+ },
+ {
+  "en": "all right",
+  "src": "5B",
+  "page": 82,
+  "evidence": "key"
+ },
+ {
+  "en": "Bo",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "cow",
+  "src": "5B",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "farmers",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "farmhouse",
+  "src": "5B",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "fields",
+  "src": "5B",
+  "page": 75,
+  "evidence": "key"
+ },
+ {
+  "en": "formula",
+  "src": "5B",
+  "page": 82,
+  "evidence": "key"
+ },
+ {
+  "en": "hard",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "harvested",
+  "src": "5B",
+  "page": 76,
+  "evidence": "key"
+ },
+ {
+  "en": "hated",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "hill",
+  "src": "5B",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "hills",
+  "src": "5B",
+  "page": 75,
+  "evidence": "key"
+ },
+ {
+  "en": "ideas and",
+  "src": "5B",
+  "page": 75,
+  "evidence": "teach"
+ },
+ {
+  "en": "laptop",
+  "src": "5B",
+  "page": 82,
+  "evidence": "key"
+ },
+ {
+  "en": "last",
+  "src": "5B",
+  "page": 81,
+  "evidence": "key"
+ },
+ {
+  "en": "leaves",
+  "src": "5B",
+  "page": 203,
+  "evidence": "key"
+ },
+ {
+  "en": "letting",
+  "src": "5B",
+  "page": 82,
+  "evidence": "key"
+ },
+ {
+  "en": "Mars",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "meaning and",
+  "src": "5B",
+  "page": 76,
+  "evidence": "teach"
+ },
+ {
+  "en": "missing",
+  "src": "5B",
+  "page": 81,
+  "evidence": "key"
+ },
+ {
+  "en": "muddy",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "no",
+  "src": "5B",
+  "page": 82,
+  "evidence": "key"
+ },
+ {
+  "en": "opinions for",
+  "src": "5B",
+  "page": 74,
+  "evidence": "teach"
+ },
+ {
+  "en": "pick",
+  "src": "5B",
+  "page": 76,
+  "evidence": "key"
+ },
+ {
+  "en": "plans",
+  "src": "5B",
+  "page": 81,
+  "evidence": "key"
+ },
+ {
+  "en": "planted",
+  "src": "5B",
+  "page": 76,
+  "evidence": "key"
+ },
+ {
+  "en": "routine",
+  "src": "5B",
+  "page": 81,
+  "evidence": "key"
+ },
+ {
+  "en": "safer",
+  "src": "5B",
+  "page": 82,
+  "evidence": "key"
+ },
+ {
+  "en": "sheep",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "shop",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "some more",
+  "src": "5B",
+  "page": 76,
+  "evidence": "teach"
+ },
+ {
+  "en": "sound picture",
+  "src": "5B",
+  "page": 76,
+  "evidence": "teach"
+ },
+ {
+  "en": "stars",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "unusual",
+  "src": "5B",
+  "page": 81,
+  "evidence": "key"
+ },
+ {
+  "en": "video message",
+  "src": "5B",
+  "page": 82,
+  "evidence": "key"
+ },
+ {
+  "en": "view",
+  "src": "5B",
+  "page": 77,
+  "evidence": "key"
+ },
+ {
+  "en": "wearing",
+  "src": "5B",
+  "page": 81,
+  "evidence": "key"
+ },
+ {
+  "en": "well",
+  "src": "5B",
+  "page": 75,
+  "evidence": "key"
+ },
+ {
+  "en": "clear",
+  "src": "6A",
+  "page": 204,
+  "evidence": "key"
+ },
+ {
+  "en": "coeliac",
+  "src": "6A",
+  "page": 85,
+  "evidence": "teach"
+ },
+ {
+  "en": "courses",
+  "src": "6A",
+  "page": 204,
+  "evidence": "key"
+ },
+ {
+  "en": "cramped",
+  "src": "6A",
+  "page": 88,
+  "evidence": "key"
+ },
+ {
+  "en": "cups / mugs",
+  "src": "6A",
+  "page": 204,
+  "evidence": "key"
+ },
+ {
+  "en": "delicious",
+  "src": "6A",
+  "page": 88,
+  "evidence": "key"
+ },
+ {
+  "en": "don’t need to",
+  "src": "6A",
+  "page": 86,
+  "evidence": "key"
+ },
+ {
+  "en": "fresh",
+  "src": "6A",
+  "page": 88,
+  "evidence": "key"
+ },
+ {
+  "en": "glass",
+  "src": "6A",
+  "page": 204,
+  "evidence": "key"
+ },
+ {
+  "en": "knife",
+  "src": "6A",
+  "page": 204,
+  "evidence": "key"
+ },
+ {
+  "en": "meal",
+  "src": "6A",
+  "page": 204,
+  "evidence": "key"
+ },
+ {
+  "en": "mustn’t",
+  "src": "6A",
+  "page": 86,
+  "evidence": "key"
+ },
+ {
+  "en": "oughtn’t to",
+  "src": "6A",
+  "page": 86,
+  "evidence": "key"
+ },
+ {
+  "en": "Rafael",
+  "src": "6A",
+  "page": 88,
+  "evidence": "key"
+ },
+ {
+  "en": "reasonable",
+  "src": "6A",
+  "page": 88,
+  "evidence": "key"
+ },
+ {
+  "en": "set the",
+  "src": "6A",
+  "page": 83,
+  "evidence": "teach"
+ },
+ {
+  "en": "shouldn’t",
+  "src": "6A",
+  "page": 86,
+  "evidence": "key"
+ },
+ {
+  "en": "tasty",
+  "src": "6A",
+  "page": 88,
+  "evidence": "key"
+ },
+ {
+  "en": "word cutlery",
+  "src": "6A",
+  "page": 83,
+  "evidence": "teach"
+ },
+ {
+  "en": "You don’t have to",
+  "src": "6A",
+  "page": 87,
+  "evidence": "key"
+ },
+ {
+  "en": "You have to",
+  "src": "6A",
+  "page": 87,
+  "evidence": "key"
+ },
+ {
+  "en": "You mustn’t",
+  "src": "6A",
+  "page": 87,
+  "evidence": "key"
+ },
+ {
+  "en": "You oughtn’t to",
+  "src": "6A",
+  "page": 87,
+  "evidence": "key"
+ },
+ {
+  "en": "You shouldn’t",
+  "src": "6A",
+  "page": 87,
+  "evidence": "key"
+ },
+ {
+  "en": "Zoe",
+  "src": "6A",
+  "page": 88,
+  "evidence": "key"
+ },
+ {
+  "en": "absorb",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "answers to",
+  "src": "6B",
+  "page": 94,
+  "evidence": "teach"
+ },
+ {
+  "en": "apply",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "be able to",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "been able to",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "can’t",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "crumple",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "handy",
+  "src": "6B",
+  "page": 93,
+  "evidence": "key"
+ },
+ {
+  "en": "keep away",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "lamp",
+  "src": "6B",
+  "page": 91,
+  "evidence": "key"
+ },
+ {
+  "en": "looking",
+  "src": "6B",
+  "page": 91,
+  "evidence": "key"
+ },
+ {
+  "en": "other things",
+  "src": "6B",
+  "page": 92,
+  "evidence": "teach"
+ },
+ {
+  "en": "place",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "restore",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "rinse",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "rub",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "seal",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "stuff",
+  "src": "6B",
+  "page": 89,
+  "evidence": "key"
+ },
+ {
+  "en": "swearing",
+  "src": "6B",
+  "page": 93,
+  "evidence": "key"
+ },
+ {
+  "en": "things",
+  "src": "6B",
+  "page": 91,
+  "evidence": "key"
+ },
+ {
+  "en": "work",
+  "src": "6B",
+  "page": 91,
+  "evidence": "key"
+ },
+ {
+  "en": "wrong way",
+  "src": "6B",
+  "page": 93,
+  "evidence": "key"
+ },
+ {
+  "en": "apart",
+  "src": "7A",
+  "page": 204,
+  "evidence": "key"
+ },
+ {
+  "en": "round / in",
+  "src": "7A",
+  "page": 204,
+  "evidence": "key"
+ },
+ {
+  "en": "its meaning",
+  "src": "8A",
+  "page": 111,
+  "evidence": "teach"
+ },
+ {
+  "en": "men",
+  "src": "8A",
+  "page": 111,
+  "evidence": "key"
+ },
+ {
+  "en": "qualities",
+  "src": "8A",
+  "page": 111,
+  "evidence": "key"
+ },
+ {
+  "en": "results",
+  "src": "8A",
+  "page": 111,
+  "evidence": "key"
+ },
+ {
+  "en": "that with",
+  "src": "8A",
+  "page": 109,
+  "evidence": "teach"
+ },
+ {
+  "en": "training",
+  "src": "8A",
+  "page": 111,
+  "evidence": "key"
+ },
+ {
+  "en": "treatment",
+  "src": "8A",
+  "page": 109,
+  "evidence": "teach"
+ },
+ {
+  "en": "what treat",
+  "src": "8A",
+  "page": 109,
+  "evidence": "teach"
+ },
+ {
+  "en": "women",
+  "src": "8A",
+  "page": 111,
+  "evidence": "key"
+ },
+ {
+  "en": "any more",
+  "src": "8B",
+  "page": 117,
+  "evidence": "teach"
+ },
+ {
+  "en": "any other",
+  "src": "8B",
+  "page": 118,
+  "evidence": "teach"
+ },
+ {
+  "en": "archer",
+  "src": "8B",
+  "page": 116,
+  "evidence": "key"
+ },
+ {
+  "en": "arrow",
+  "src": "8B",
+  "page": 116,
+  "evidence": "key"
+ },
+ {
+  "en": "Battle",
+  "src": "8B",
+  "page": 117,
+  "evidence": "key"
+ },
+ {
+  "en": "bow",
+  "src": "8B",
+  "page": 116,
+  "evidence": "key"
+ },
+ {
+  "en": "cathedral",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "Christopher",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "each form",
+  "src": "8B",
+  "page": 116,
+  "evidence": "teach"
+ },
+ {
+  "en": "Fire",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "full length",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "g where",
+  "src": "8B",
+  "page": 120,
+  "evidence": "key"
+ },
+ {
+  "en": "g which",
+  "src": "8B",
+  "page": 120,
+  "evidence": "key"
+ },
+ {
+  "en": "Hastings",
+  "src": "8B",
+  "page": 117,
+  "evidence": "key"
+ },
+ {
+  "en": "helmet",
+  "src": "8B",
+  "page": 116,
+  "evidence": "key"
+ },
+ {
+  "en": "London",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "nine",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "Norway",
+  "src": "8B",
+  "page": 117,
+  "evidence": "key"
+ },
+ {
+  "en": "Queen",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "shield",
+  "src": "8B",
+  "page": 116,
+  "evidence": "key"
+ },
+ {
+  "en": "Stamford Bridge",
+  "src": "8B",
+  "page": 117,
+  "evidence": "key"
+ },
+ {
+  "en": "the Dome",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "the South Transept",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "the West Door",
+  "src": "8B",
+  "page": 118,
+  "evidence": "key"
+ },
+ {
+  "en": "what is",
+  "src": "8B",
+  "page": 116,
+  "evidence": "teach"
+ },
+ {
+  "en": "which consonants",
+  "src": "8B",
+  "page": 118,
+  "evidence": "teach"
+ },
+ {
+  "en": "ability",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "accurate",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "asked",
+  "src": "9A",
+  "page": 124,
+  "evidence": "key"
+ },
+ {
+  "en": "atomic",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "autobiographical",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "connection",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "couldn’t",
+  "src": "9A",
+  "page": 124,
+  "evidence": "key"
+ },
+ {
+  "en": "easily",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "emotional",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "entry",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "had / ’d",
+  "src": "9A",
+  "page": 124,
+  "evidence": "key"
+ },
+ {
+  "en": "memorable",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "memorize",
+  "src": "9A",
+  "page": 123,
+  "evidence": "key"
+ },
+ {
+  "en": "Personally",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "pronunciation of",
+  "src": "9A",
+  "page": 126,
+  "evidence": "teach"
+ },
+ {
+  "en": "recall",
+  "src": "9A",
+  "page": 123,
+  "evidence": "key"
+ },
+ {
+  "en": "remind",
+  "src": "9A",
+  "page": 123,
+  "evidence": "key"
+ },
+ {
+  "en": "rules for",
+  "src": "9A",
+  "page": 125,
+  "evidence": "teach"
+ },
+ {
+  "en": "said",
+  "src": "9A",
+  "page": 124,
+  "evidence": "key"
+ },
+ {
+  "en": "told",
+  "src": "9A",
+  "page": 124,
+  "evidence": "key"
+ },
+ {
+  "en": "unlikely",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "unpleasant",
+  "src": "9A",
+  "page": 127,
+  "evidence": "key"
+ },
+ {
+  "en": "why she",
+  "src": "9A",
+  "page": 124,
+  "evidence": "teach"
+ },
+ {
+  "en": "After that",
+  "src": "9B",
+  "page": 129,
+  "evidence": "key"
+ },
+ {
+  "en": "at last",
+  "src": "9B",
+  "page": 129,
+  "evidence": "key"
+ },
+ {
+  "en": "best man",
+  "src": "9B",
+  "page": 132,
+  "evidence": "key"
+ },
+ {
+  "en": "bridesmaids",
+  "src": "9B",
+  "page": 132,
+  "evidence": "key"
+ },
+ {
+  "en": "couples",
+  "src": "9B",
+  "page": 132,
+  "evidence": "key"
+ },
+ {
+  "en": "engaged",
+  "src": "9B",
+  "page": 132,
+  "evidence": "key"
+ },
+ {
+  "en": "Fortunately / Luckily",
+  "src": "9B",
+  "page": 133,
+  "evidence": "key"
+ },
+ {
+  "en": "guests",
+  "src": "9B",
+  "page": 132,
+  "evidence": "key"
+ },
+ {
+  "en": "invitations",
+  "src": "9B",
+  "page": 132,
+  "evidence": "key"
+ },
+ {
+  "en": "Luckily /",
+  "src": "9B",
+  "page": 133,
+  "evidence": "key"
+ },
+ {
+  "en": "married",
+  "src": "9B",
+  "page": 132,
+  "evidence": "key"
+ },
+ {
+  "en": "never",
+  "src": "9B",
+  "page": 129,
+  "evidence": "key"
+ },
+ {
+  "en": "One morning",
+  "src": "9B",
+  "page": 129,
+  "evidence": "key"
+ },
+ {
+  "en": "paperweight",
+  "src": "9B",
+  "page": 134,
+  "evidence": "teach"
+ },
+ {
+  "en": "reception",
+  "src": "9B",
+  "page": 132,
+  "evidence": "key"
+ },
+ {
+  "en": "unfortunately",
+  "src": "9B",
+  "page": 133,
+  "evidence": "key"
+ },
+ {
+  "en": "word beads",
+  "src": "9B",
+  "page": 131,
+  "evidence": "teach"
+ },
+ {
+  "en": "address",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "and write",
+  "src": "PE1",
+  "page": 25,
+  "evidence": "teach"
+ },
+ {
+  "en": "anything they",
+  "src": "PE1",
+  "page": 23,
+  "evidence": "teach"
+ },
+ {
+  "en": "awful",
+  "src": "PE1",
+  "page": 26,
+  "evidence": "key"
+ },
+ {
+  "en": "bags",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "contact",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "describe",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "details",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "great",
+  "src": "PE1",
+  "page": 26,
+  "evidence": "key"
+ },
+ {
+  "en": "isn’t",
+  "src": "PE1",
+  "page": 26,
+  "evidence": "key"
+ },
+ {
+  "en": "long",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "lovely",
+  "src": "PE1",
+  "page": 26,
+  "evidence": "key"
+ },
+ {
+  "en": "sign",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "size",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "sorry",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "that it",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "teach"
+ },
+ {
+  "en": "visitor",
+  "src": "PE1",
+  "page": 24,
+  "evidence": "key"
+ },
+ {
+  "en": "along",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "another",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "Carry",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "fetch",
+  "src": "PE5",
+  "page": 136,
+  "evidence": "key"
+ },
+ {
+  "en": "Jenny",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "left",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "Luke",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "right",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "Rob",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "straight",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "through",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "wait",
+  "src": "PE5",
+  "page": 136,
+  "evidence": "key"
+ },
+ {
+  "en": "way",
+  "src": "PE5",
+  "page": 135,
+  "evidence": "key"
+ },
+ {
+  "en": "who each",
+  "src": "PE5",
+  "page": 136,
+  "evidence": "teach"
+ },
+ {
+  "en": "wish",
+  "src": "PE5",
+  "page": 136,
+  "evidence": "key"
+ },
+ {
+  "en": "affection",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "attract",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "colour kala’ comfort",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "compassion",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "consider",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "create",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "desire",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "dirt",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "glamour",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "health",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "help",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "impress",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "impulse",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "losing a final e",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "love",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "peace",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "possess",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "power",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "profit",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "rebel fri'bel rest",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "space",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "suit",
+  "src": "1B",
+  "band": "adj_suffixes",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bowl",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "candle",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cereals",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "donkey",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ed cockerel",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "fork",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hedge",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hens",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ir barn",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "lake",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "mug",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "napkin",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "servigtte",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "serving dish",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "tractor",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "wine glass",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "wood",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "yr i farmhouse",
+  "src": "5B",
+  "band": "country",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "brick",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bucket",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bulb lait balb torch",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "drawing pin",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "glue",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "handle",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ladder",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "paintbrush",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "pin penknife",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "put together",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "screw",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "screwdriver",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "spanner",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "string",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "tile",
+  "src": "6B",
+  "band": "diy",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "able",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "admit",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "advise",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "afford",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "agree",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "allow",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "also like to thank",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "arrange",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ask",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "avoid",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "beat",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "beaten",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "become",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "become lie lar lain",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "begin",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "begun",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bite",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bitten",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bought put",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "break",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bring",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "broken",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "brought meet",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "build",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "buy",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "can't stand",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "catch",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "caught ride",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "certain other countries from",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "choose",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "chosen",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "come",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cost",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cost say",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cut",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cut see iy seen",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "decide",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "deny",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "dislike",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "done",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "draw",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "drawn",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "drink",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "drive",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "driven",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "drunk",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "eaten",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "enjoy",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "expect",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "fallen",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "feel",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "feel like",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "find",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "finish",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "flown",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "forget",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "forgotten",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "found sit",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "fromm",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "gerund",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "get",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "giv given",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "go ga gone",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "grow",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hang hap hung swim",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hate",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hear",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "heard teach",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hidden",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hope",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hurt",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "imagine",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "invite",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "keep",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "learn",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "learned",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "learned win",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "left write",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "lend",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "let",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "like",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "make",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "manage",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "mean",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "mind",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "miss",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "money buy",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "need",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "offer",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "order",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "persuade",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "plan",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "practise",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "prefer",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "pretend",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "promise",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "publication are inthe from",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "read",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "recommend",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "refuse",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "remember",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ridden",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ring",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "rung",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "sau sewn",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "seem",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "send",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "shine",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "sleep",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "speak",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "stand",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "steal",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "stick",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "stolen",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "stop",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "suggest",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "swum",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "taken",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "teach",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "tell",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "text and photograph from",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "try",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "want",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "woken",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "written",
+  "src": "8A",
+  "band": "looking_after",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "adaptor",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bathrobe",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "batteries",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "beach bag",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "brush",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "comb",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "deodorant",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "earphones",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "flip-flops",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "fold",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "guideboak",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "hairdryer",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "headphones",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "make-up",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "pack of cards",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "pyiamas",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "scissors",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "slippers",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "sponge bag",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "sun hat",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "sunscreen",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "toothbrush",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "toothpaste",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "towel",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "underwear",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "wrap",
+  "src": "2A",
+  "band": "packing",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bag jar",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "behind",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bin",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bin bag",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bottle",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bottom right-hand corner",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cap",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cardboard box pouch",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "distance",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "foreground",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "front",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "inthe background",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "kalekta lid",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "list",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "plastic bag",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "pot",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "rant hand",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "sell-by date",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "tub",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "waste west packet",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "waste-paper basket",
+  "src": "3B",
+  "band": "photography",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "after apart",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bleached",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "blow-dry",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bunches",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "curled",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "dyed",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "facial",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "fens fake tan",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "fringe",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "highlights",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "parting",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "plaits",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ponytail",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "put",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "straightened",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "trim",
+  "src": "7A",
+  "band": "phrasal_verbs",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "away the rubbish",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "dissertation",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "experience",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "faculties",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "intern",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "interview",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "job offer",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "lectures",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "look",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "postgraduates",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "professors",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "qualifications",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "reapply",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "regyele",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "reheat",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "replay",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "rethink",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "reuse",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "seminars",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "skills",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "take",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "take away",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "taught in tutorials",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "thesis",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "three-year",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "tutor",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "undergraduates",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "vacancy",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "want them any more",
+  "src": "4A",
+  "band": "recycling",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "baker's",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bubaz garden centre",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "butcher's but fo greengrocer's",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "car showroom",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "chemist's",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "deli",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "dry-cleaner's",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "estate agent's",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "fishmonger’s",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "launderette",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "market stall",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "mm",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "off-licence",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "short",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "stationer's",
+  "src": "2B",
+  "band": "shops_services",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "advert",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "animation",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "branch",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "bush",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cartoon",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "chat show",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "cliff",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "da turn",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "documentary",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "drama",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "fence",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "field",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "gate gett stones",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "grass",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ia turn",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "ig",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "leaf",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "live sport",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "news",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "path",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "period drama",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "plural leaves",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "reality show",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "return for a second",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "rocks",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "soap soup",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "start it working",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "sticks",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "stream",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "turn",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ },
+ {
+  "en": "watch a different channel",
+  "src": "5A",
+  "band": "television",
+  "page": 0,
+  "evidence": "sb_vb"
+ }
+]
