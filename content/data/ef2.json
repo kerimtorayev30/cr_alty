@@ -1,0 +1,435 @@
+{
+  "book": "ele",
+  "title": "English File Elementary",
+  "words": [
+    {
+      "en": "day",
+      "ipa": "/deɪ/",
+      "pos": "N",
+      "tm": "gün",
+      "ru": "день",
+      "def": "A period of twenty-four hours, or the part of it when it is light",
+      "ex": "There are seven days in a week.",
+      "exTm": "Bir hepdede ýedi gün bar.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "date",
+      "coll": "every day, the next day, day off",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 1
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "year",
+      "ipa": "/jɪə/",
+      "pos": "N",
+      "tm": "ýyl",
+      "ru": "год",
+      "def": "A period of twelve months",
+      "ex": "She is fifteen years old.",
+      "exTm": "Ol on bäş ýaşynda.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "twelvemonth",
+      "coll": "last year, next year, this year",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 1
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "week",
+      "ipa": "/wiːk/",
+      "pos": "N",
+      "tm": "hepde",
+      "ru": "неделя",
+      "def": "A period of seven days",
+      "ex": "We have an exam next week.",
+      "exTm": "Biziň indiki hepde ekzamenimiz bar.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "—",
+      "coll": "last week, this week, at the weekend",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 2
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school"
+      ]
+    },
+    {
+      "en": "money",
+      "ipa": "/ˈmʌni/",
+      "pos": "N",
+      "tm": "pul",
+      "ru": "деньги",
+      "def": "Coins or notes that you use to buy things",
+      "ex": "I saved money for a new phone.",
+      "exTm": "Men täze telefon üçin pul ýygnadym.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "cash, funds",
+      "coll": "save money, earn money, spend money",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 4
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "food",
+      "ipa": "/fuːd/",
+      "pos": "N",
+      "tm": "iýmit",
+      "ru": "еда",
+      "def": "Things that people and animals eat",
+      "ex": "Turkmen food is very tasty.",
+      "exTm": "Türkmen iýmiti gaty tagamly.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "sustenance, cuisine",
+      "coll": "fast food, traditional food, healthy food",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 5
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "en": "work",
+      "ipa": "/wɜːk/",
+      "pos": "N",
+      "tm": "iş",
+      "ru": "работа",
+      "def": "An activity that you do to earn money, or the place where you do it",
+      "ex": "He goes to work by bus.",
+      "exTm": "Ol işe awtobus bilen gidýär.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "job, employment, labour",
+      "coll": "at work, go to work, hard work",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 6
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "country",
+      "ipa": "/ˈkʌntri/",
+      "pos": "N",
+      "tm": "ýurt",
+      "ru": "страна",
+      "def": "An area of land that has its own government and people",
+      "ex": "Turkmenistan is a Central Asian country.",
+      "exTm": "Türkmenistan Merkezi Aziýadaky ýurt.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "nation, state",
+      "coll": "foreign country, your own country",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 7
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "travel"
+      ]
+    },
+    {
+      "en": "street",
+      "ipa": "/striːt/",
+      "pos": "N",
+      "tm": "köçe",
+      "ru": "улица",
+      "def": "A road in a town or city with buildings along it",
+      "ex": "The shop is on the next street.",
+      "exTm": "Dükan indiki köçede.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "road, avenue",
+      "coll": "main street, cross the street, street food",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 8
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "travel"
+      ]
+    },
+    {
+      "en": "car",
+      "ipa": "/kɑː/",
+      "pos": "N",
+      "tm": "maşyn",
+      "ru": "автомобиль",
+      "def": "A road vehicle with four wheels and an engine",
+      "ex": "My uncle bought a new car.",
+      "exTm": "Meniň agam täze maşyn satyn aldy.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "vehicle, automobile",
+      "coll": "drive a car, by car, car park",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 8
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "travel",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "morning",
+      "ipa": "/ˈmɔːnɪŋ/",
+      "pos": "N",
+      "tm": "irden",
+      "ru": "утро",
+      "def": "The early part of the day, from night until midday",
+      "ex": "I do exercise every morning.",
+      "exTm": "Men her irden maşk edýärin.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "forenoon",
+      "coll": "in the morning, good morning, early morning",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 9
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "night",
+      "ipa": "/naɪt/",
+      "pos": "N",
+      "tm": "gije",
+      "ru": "ночь",
+      "def": "The time when it is dark and most people sleep",
+      "ex": "Good night, sleep well.",
+      "exTm": "Haýyrly gije, rahat uky.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "nighttime",
+      "coll": "at night, last night, good night",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 9
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "family",
+      "ipa": "/ˈfæməli/",
+      "pos": "N",
+      "tm": "maşgala",
+      "ru": "семья",
+      "def": "A group of people who are related to each other, such as parents and children",
+      "ex": "My family lives in Mary.",
+      "exTm": "Meniň maşgalam Maryda ýaşaýar.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "household, relatives",
+      "coll": "big family, family name, family member",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 10
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "family",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "child",
+      "ipa": "/tʃaɪld/",
+      "pos": "N",
+      "tm": "çaga",
+      "ru": "ребёнок",
+      "def": "A young person who is not yet an adult",
+      "ex": "The child is playing in the yard.",
+      "exTm": "Çaga howluda oýnaýar.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "kid, youngster",
+      "coll": "small child, have a child",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 10
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "en": "man",
+      "ipa": "/mæn/",
+      "pos": "N",
+      "tm": "adam",
+      "ru": "мужчина",
+      "def": "An adult male human being",
+      "ex": "The man at the door is my neighbour.",
+      "exTm": "Gapynyň öňündäki adam meniň goňşum.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "gentleman, fellow",
+      "coll": "old man, young man",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 10
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "woman",
+      "ipa": "/ˈwʊmən/",
+      "pos": "N",
+      "tm": "zenan",
+      "ru": "женщина",
+      "def": "An adult female human being",
+      "ex": "That woman is a doctor.",
+      "exTm": "Ol zenan lukman.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "lady",
+      "coll": "young woman, businesswoman",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 10
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "boy",
+      "ipa": "/bɔɪ/",
+      "pos": "N",
+      "tm": "oglan",
+      "ru": "мальчик",
+      "def": "A male child or young person",
+      "ex": "The boy is reading a comic.",
+      "exTm": "Oglan komiks okaýar.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "lad",
+      "coll": "little boy, good boy",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 10
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "en": "girl",
+      "ipa": "/ɡɜːl/",
+      "pos": "N",
+      "tm": "gyz",
+      "ru": "девочка",
+      "def": "A female child or young person",
+      "ex": "The girl won the singing competition.",
+      "exTm": "Gyz aýdym aýtmak bäsleşiginde ýeňiş gazandy.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "lass",
+      "coll": "little girl, good girl",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 10
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "family"
+      ]
+    }
+  ]
+}

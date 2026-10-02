@@ -1,0 +1,261 @@
+{
+  "book": "int",
+  "title": "English File Intermediate",
+  "words": [
+    {
+      "en": "experience",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "pos": "N",
+      "tm": "tejrübe",
+      "ru": "опыт",
+      "def": "Knowledge or skill that you gain from doing something over a period of time",
+      "ex": "She has five years of teaching experience.",
+      "exTm": "Onuň bäş ýyllyk mugallymçylyk tejribesi bar.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "background, practice, expertise",
+      "coll": "work experience, gain experience, a memorable experience",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 1
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "en": "opportunity",
+      "ipa": "/ˌɒpəˈtjuːnəti/",
+      "pos": "N",
+      "tm": "mümkinçilik",
+      "ru": "возможность",
+      "def": "A situation that makes it possible to do something that you want to do",
+      "ex": "The course gave me an opportunity to speak English.",
+      "exTm": "Kurs maňa iňlis dilinde gürleşmek mümkinçiligini berdi.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "chance, opening, prospect",
+      "coll": "a great opportunity, miss an opportunity, take the opportunity",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 2
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work",
+        "school"
+      ]
+    },
+    {
+      "en": "develop",
+      "ipa": "/dɪˈveləp/",
+      "pos": "V",
+      "tm": "ösdürmek",
+      "ru": "развивать",
+      "def": "To grow or change into a more advanced or stronger form",
+      "ex": "The company wants to develop a new app for students.",
+      "exTm": "Kompaniýa talyplar üçin täze programmany ösdürmek isleýär.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "grow, expand, build up",
+      "coll": "develop skills, develop a plan, develop rapidly",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 3
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work",
+        "tech"
+      ]
+    },
+    {
+      "en": "environment",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "pos": "N",
+      "tm": "daşky gurşaw",
+      "ru": "окружающая среда",
+      "def": "The natural world of air, water and land, or the conditions around people",
+      "ex": "We must protect the environment for future generations.",
+      "exTm": "Geljekki nesiller üçin daşky gurşawy goramaly.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "surroundings, habitat, setting",
+      "coll": "protect the environment, work environment, natural environment",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 4
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "nature"
+      ]
+    },
+    {
+      "en": "technology",
+      "ipa": "/tekˈnɒlədʒi/",
+      "pos": "N",
+      "tm": "tehnologiýa",
+      "ru": "технология",
+      "def": "The use of science and machines to solve problems and make life easier",
+      "ex": "New technology helps students learn languages faster.",
+      "exTm": "Täze tehnologiýa talyplara dilleri çalt öwrenmäge kömek edýär.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "innovation, engineering",
+      "coll": "modern technology, information technology, new technology",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 5
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "tech",
+        "school"
+      ]
+    },
+    {
+      "en": "government",
+      "ipa": "/ˈɡʌvənmənt/",
+      "pos": "N",
+      "tm": "hökümet",
+      "ru": "правительство",
+      "def": "The group of people who officially govern a country",
+      "ex": "The government built new schools in the region.",
+      "exTm": "Hökümet sebitde täze mekdepleri gurup berdi.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "administration, authority, cabinet",
+      "coll": "local government, government policy, the government announced",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 6
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "en": "education",
+      "ipa": "/ˌedʒuˈkeɪʃn/",
+      "pos": "N",
+      "tm": "bilim",
+      "ru": "образование",
+      "def": "The process of teaching or learning, especially in a school or university",
+      "ex": "Education is free in Turkmenistan.",
+      "exTm": "Türkmenistanda bilim mugt.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "schooling, training, learning",
+      "coll": "higher education, education system, receive an education",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 7
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school"
+      ]
+    },
+    {
+      "en": "society",
+      "ipa": "/səˈsaɪəti/",
+      "pos": "N",
+      "tm": "jemgyýet",
+      "ru": "общество",
+      "def": "People in general, living together in a community with shared laws and customs",
+      "ex": "Sport plays an important part in our society.",
+      "exTm": "Sport biziň jemgyýetimizde möhüm orun eýeleýär.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "community, the public",
+      "coll": "modern society, society as a whole, civil society",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 8
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "en": "culture",
+      "ipa": "/ˈkʌltʃə/",
+      "pos": "N",
+      "tm": "medeniýet",
+      "ru": "культура",
+      "def": "The way of life, beliefs and customs of a particular group of people",
+      "ex": "Turkmen culture is famous for its carpets.",
+      "exTm": "Türkmen medeniýeti halyçylygy bilen meşhurdyr.",
+      "cefr": "B1",
+      "ox": "Oxford 3000",
+      "syn": "civilisation, heritage, tradition",
+      "coll": "local culture, popular culture, cultural differences",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 9
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "travel",
+        "school"
+      ]
+    },
+    {
+      "en": "success",
+      "ipa": "/səkˈses/",
+      "pos": "N",
+      "tm": "üstünlik",
+      "ru": "успех",
+      "def": "The fact of achieving what you wanted, or something that works well",
+      "ex": "Hard work is the key to success.",
+      "exTm": "Zähmet üstünligiň açarydyr.",
+      "cefr": "A2",
+      "ox": "Oxford 3000",
+      "syn": "achievement, triumph, accomplishment",
+      "coll": "great success, achieve success, key to success",
+      "stage": "New",
+      "books": [
+        {
+          "book": "int",
+          "unit": 10
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work",
+        "school"
+      ]
+    }
+  ]
+}

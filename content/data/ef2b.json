@@ -1,0 +1,134 @@
+{
+  "book": "ele",
+  "title": "English File Elementary — verbs and daily life",
+  "words": [
+    {
+      "en": "go",
+      "ipa": "/ɡəʊ/",
+      "pos": "V",
+      "tm": "gitmek",
+      "ru": "идти",
+      "def": "To move or travel from one place to another",
+      "ex": "I go to the bazaar on Sundays.",
+      "exTm": "Ýekşenbe günleri bazara gidýärin.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "travel, move, head",
+      "coll": "go home, go to school, go for a walk",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 2
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "come",
+      "ipa": "/kʌm/",
+      "pos": "V",
+      "tm": "gelmek",
+      "ru": "приходить",
+      "def": "To move towards or arrive at the place where the speaker is",
+      "ex": "Come here and look at this.",
+      "exTm": "Bu ýere gel we muňa seret.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "arrive, approach",
+      "coll": "come in, come from, come back",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 2
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "sleep",
+      "ipa": "/sliːp/",
+      "pos": "V",
+      "tm": "uklamak",
+      "ru": "спать",
+      "def": "To rest your mind and body with your eyes closed, usually at night",
+      "ex": "Children need to sleep eight hours a night.",
+      "exTm": "Çagalar gijesine sekiz sagat uklap bilmeli.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "rest, nap",
+      "coll": "sleep well, go to sleep, sleep late",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 9
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "health",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "learn",
+      "ipa": "/lɜːn/",
+      "pos": "V",
+      "tm": "öwrenmek",
+      "ru": "учить",
+      "def": "To get knowledge or skill in a subject by studying or practising",
+      "ex": "I want to learn English for my job.",
+      "exTm": "Işim üçin iňlis dilini öwrenmek isleýärin.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "study, master, pick up",
+      "coll": "learn by heart, learn English, learn from mistakes",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 3
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "listen",
+      "ipa": "/ˈlɪsn/",
+      "pos": "V",
+      "tm": "diňlemek",
+      "ru": "слушать",
+      "def": "To pay attention to a sound or to someone who is talking",
+      "ex": "I listen to music on the bus.",
+      "exTm": "Awtobusda saz diňleýärin.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "hear, pay attention",
+      "coll": "listen to music, listen carefully, listen to the teacher",
+      "stage": "New",
+      "books": [
+        {
+          "book": "ele",
+          "unit": 4
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school",
+        "high-frequency"
+      ]
+    }
+  ]
+}

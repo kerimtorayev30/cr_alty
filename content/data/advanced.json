@@ -1,0 +1,7208 @@
+{
+ "book": "adv",
+ "title": "English File Advanced (4th edition) — vocabulary, by lesson",
+ "lessons": [
+  {
+   "lesson": "1A",
+   "unit": 1,
+   "title": "We are family",
+   "topic": "personality",
+   "words": 14
+  },
+  {
+   "lesson": "1B",
+   "unit": 1,
+   "title": "A job for life?",
+   "topic": "work",
+   "words": 12
+  },
+  {
+   "lesson": "2A",
+   "unit": 2,
+   "title": "Do you remember...?",
+   "topic": "word building: abstract nouns",
+   "words": 14
+  },
+  {
+   "lesson": "2B",
+   "unit": 2,
+   "title": "On the tip of my tongue",
+   "topic": "lexical areas: relationships",
+   "words": 10
+  },
+  {
+   "lesson": "3A",
+   "unit": 3,
+   "title": "A love-hate relationship",
+   "topic": "phrases with get",
+   "words": 8
+  },
+  {
+   "lesson": "3B",
+   "unit": 3,
+   "title": "Dramatic licence",
+   "topic": "conflict and warfare",
+   "words": 13
+  },
+  {
+   "lesson": "4A",
+   "unit": 4,
+   "title": "An open book",
+   "topic": "describing books and films",
+   "words": 10
+  },
+  {
+   "lesson": "4B",
+   "unit": 4,
+   "title": "The sound of silence",
+   "topic": "sounds and the human voice",
+   "words": 10
+  },
+  {
+   "lesson": "5A",
+   "unit": 5,
+   "title": "No time for anything",
+   "topic": "expressions with time",
+   "words": 10
+  },
+  {
+   "lesson": "5B",
+   "unit": 5,
+   "title": "Not for profit?",
+   "topic": "money",
+   "words": 12
+  },
+  {
+   "lesson": "6A",
+   "unit": 6,
+   "title": "Help, I need somebody!",
+   "topic": "compound adjectives",
+   "words": 12
+  },
+  {
+   "lesson": "6B",
+   "unit": 6,
+   "title": "Can't give it up",
+   "topic": "phones and technology",
+   "words": 12
+  },
+  {
+   "lesson": "7A",
+   "unit": 7,
+   "title": "As a matter of fact...",
+   "topic": "word formation: prefixes",
+   "words": 15
+  },
+  {
+   "lesson": "7B",
+   "unit": 7,
+   "title": "A masterpiece?",
+   "topic": "art · colour idioms",
+   "words": 12
+  },
+  {
+   "lesson": "8A",
+   "unit": 8,
+   "title": "The best medicine?",
+   "topic": "health and medicine",
+   "words": 13
+  },
+  {
+   "lesson": "8B",
+   "unit": 8,
+   "title": "A 'must-see' attraction",
+   "topic": "travel and tourism",
+   "words": 12
+  },
+  {
+   "lesson": "9A",
+   "unit": 9,
+   "title": "Pet hates",
+   "topic": "animal matters",
+   "words": 10
+  },
+  {
+   "lesson": "9B",
+   "unit": 9,
+   "title": "How to cook, how to eat",
+   "topic": "preparing food",
+   "words": 12
+  },
+  {
+   "lesson": "10A",
+   "unit": 10,
+   "title": "On your marks, set, go!",
+   "topic": "word building: adjectives, nouns, and verbs",
+   "words": 14
+  },
+  {
+   "lesson": "10B",
+   "unit": 10,
+   "title": "No direction home",
+   "topic": "words that are often confused",
+   "words": 16
+  },
+  {
+   "lesson": "CE1",
+   "unit": 11,
+   "title": "Talking about work and family",
+   "topic": "colloquial English 1",
+   "words": 8
+  },
+  {
+   "lesson": "CE2",
+   "unit": 11,
+   "title": "Talking about history",
+   "topic": "colloquial English 2 and 3",
+   "words": 8
+  },
+  {
+   "lesson": "CE3",
+   "unit": 11,
+   "title": "Talking about stress and relaxation",
+   "topic": "colloquial English 4 and 5",
+   "words": 8
+  },
+  {
+   "lesson": "CE4",
+   "unit": 11,
+   "title": "Talking about illustration",
+   "topic": "colloquial English 6 and 7",
+   "words": 8
+  },
+  {
+   "lesson": "CE5",
+   "unit": 11,
+   "title": "Talking about insects and animals",
+   "topic": "colloquial English 8 and 9",
+   "words": 8
+  }
+ ],
+ "words": [
+  {
+   "en": "charming",
+   "ipa": "/ˈtʃɑːmɪŋ/",
+   "pos": "ADJ",
+   "tm": "özüne çekiji (sympatik)",
+   "ru": "очаровательный",
+   "def": "very pleasant and likeable",
+   "ex": "The charming host welcomed everyone.",
+   "exTm": "Özüne çekiji eýe hemmäni garşylady.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "cheerful",
+   "ipa": "/ˈtʃɪəfl/",
+   "pos": "ADJ",
+   "tm": "şähdaçyk",
+   "ru": "жизнерадостный",
+   "def": "happy and positive",
+   "ex": "She gave us a cheerful smile.",
+   "exTm": "Şähdaçyk ýylgyryş berdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "cruel",
+   "ipa": "/ˈkruːəl/",
+   "pos": "ADJ",
+   "tm": "rehimsiz",
+   "ru": "жестокий",
+   "def": "causing pain without pity",
+   "ex": "It was cruel to laugh at him.",
+   "exTm": "Oňa gülmek rehimsiz boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "gentle",
+   "ipa": "/ˈdʒentl/",
+   "pos": "ADJ",
+   "tm": "mulýum",
+   "ru": "нежный, мягкий",
+   "def": "kind and careful",
+   "ex": "Be gentle with the kitten.",
+   "exTm": "Pişik çagasyna mulýum bol.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "mean",
+   "ipa": "/miːn/",
+   "pos": "ADJ",
+   "tm": "gysganç (erbet)",
+   "ru": "скупой, злой",
+   "def": "unkind, or unwilling to share",
+   "ex": "It was mean of him to say that.",
+   "exTm": "Onuň beýle aýtmagy erbet boldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "moody",
+   "ipa": "/ˈmuːdi/",
+   "pos": "ADJ",
+   "tm": "keýpi üýtgeýän",
+   "ru": "с переменчивым настроением",
+   "def": "often changing moods",
+   "ex": "Teenagers can be moody.",
+   "exTm": "Ýetginjekleriň keýpi üýtgäp durýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "optimistic",
+   "ipa": "/ˌɒptɪˈmɪstɪk/",
+   "pos": "ADJ",
+   "tm": "oňyn pikirlenýän",
+   "ru": "оптимистичный",
+   "def": "expecting good things",
+   "ex": "She is optimistic about the future.",
+   "exTm": "Geljege oňyn garaýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "optimistic about",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "outgoing",
+   "ipa": "/ˈaʊtɡəʊɪŋ/",
+   "pos": "ADJ",
+   "tm": "açyk (jemgyýetçil)",
+   "ru": "общительный, открытый",
+   "def": "friendly and sociable",
+   "ex": "His outgoing manner wins people over.",
+   "exTm": "Açyk häsiýeti adamlary özüne çekýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "patient",
+   "ipa": "/ˈpeɪʃnt/",
+   "pos": "ADJ",
+   "tm": "sabyrly",
+   "ru": "терпеливый",
+   "def": "able to wait without complaining",
+   "ex": "A good teacher is patient.",
+   "exTm": "Gowy mugallym sabyrly bolýar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "pessimistic",
+   "ipa": "/ˌpesɪˈmɪstɪk/",
+   "pos": "ADJ",
+   "tm": "ýaramaz pikirlenýän",
+   "ru": "пессимистичный",
+   "def": "expecting bad things",
+   "ex": "Do not be so pessimistic!",
+   "exTm": "Beýle ýaramaz pikirlenme!",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "shy",
+   "ipa": "/ʃaɪ/",
+   "pos": "ADJ",
+   "tm": "ýaýraň",
+   "ru": "застенчивый",
+   "def": "nervous about meeting people",
+   "ex": "The shy boy hid behind his mother.",
+   "exTm": "Ýaýraň oglan ejesiniň arkasynda gizlendi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "stubborn",
+   "ipa": "/ˈstʌbən/",
+   "pos": "ADJ",
+   "tm": "tetik (inat)",
+   "ru": "упрямый",
+   "def": "refusing to change your mind",
+   "ex": "He is too stubborn to apologise.",
+   "exTm": "Ol ötünç soramak üçin gaty inat.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "vain",
+   "ipa": "/veɪn/",
+   "pos": "ADJ",
+   "tm": "özüni göterýän",
+   "ru": "тщеславный",
+   "def": "too proud of your appearance",
+   "ex": "The vain actor admired his photo.",
+   "exTm": "Özüni göterýän aktýor suratyna syn etdi.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "wise",
+   "ipa": "/waɪz/",
+   "pos": "ADJ",
+   "tm": "paýhasly (dana)",
+   "ru": "мудрый",
+   "def": "having deep understanding",
+   "ex": "My grandmother gave me wise advice.",
+   "exTm": "Mamam paýhasly maslahat berdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "ambition",
+   "ipa": "/æmˈbɪʃn/",
+   "pos": "N",
+   "tm": "maksat (öňe saýlanma)",
+   "ru": "амбиция, стремление",
+   "def": "a strong wish to achieve something",
+   "ex": "Her ambition is to become a doctor.",
+   "exTm": "Maksady lukman bolmak.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "career ambition",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "career",
+   "ipa": "/kəˈrɪə(r)/",
+   "pos": "N",
+   "tm": "kär (uzak möhletli iş)",
+   "ru": "карьера",
+   "def": "a job or profession you do for years",
+   "ex": "He built a career in banking.",
+   "exTm": "Bank ulgamynda kär gurdu.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "career path",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "intern",
+   "ipa": "/ˈɪntɜːn/",
+   "pos": "N",
+   "tm": "stajýor",
+   "ru": "стажёр",
+   "def": "a student gaining work experience",
+   "ex": "The intern helped with the report.",
+   "exTm": "Stajýor hasabata kömek etdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "job satisfaction",
+   "ipa": "/dʒɒb ˌsætɪsˈfækʃn/",
+   "pos": "N",
+   "tm": "işden kanagatlanma",
+   "ru": "удовлетворение работой",
+   "def": "the pleasure you get from your job",
+   "ex": "Job satisfaction matters more than pay.",
+   "exTm": "Işden kanagatlanma aýlykdan möhüm.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "profession",
+   "ipa": "/prəˈfeʃn/",
+   "pos": "N",
+   "tm": "hünär (kär)",
+   "ru": "профессия",
+   "def": "a job needing special training",
+   "ex": "Teaching is a noble profession.",
+   "exTm": "Mugallymçylyk asylly hünär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "promotion",
+   "ipa": "/prəˈməʊʃn/",
+   "pos": "N",
+   "tm": "wezipe galmak",
+   "ru": "повышение (в должности)",
+   "def": "moving to a higher job level",
+   "ex": "She got a promotion last year.",
+   "exTm": "Geçen ýyl wezipesi galdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "get a promotion",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "qualified",
+   "ipa": "/ˈkwɒlɪfaɪd/",
+   "pos": "ADJ",
+   "tm": "hünärli",
+   "ru": "квалифицированный",
+   "def": "having the right training for a job",
+   "ex": "We need a qualified electrician.",
+   "exTm": "Hünärli elektrik gerek.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "highly qualified",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "retire",
+   "ipa": "/rɪˈtaɪə(r)/",
+   "pos": "V",
+   "tm": "pensiýa çykmak",
+   "ru": "выходить на пенсию",
+   "def": "to stop working because of age",
+   "ex": "He plans to retire at sixty.",
+   "exTm": "Alty ýaşynda pensiýa çykmagy meýilleşdirýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "retire from",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "unemployment",
+   "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+   "pos": "N",
+   "tm": "işsizlik",
+   "ru": "безработица",
+   "def": "the state of having no job",
+   "ex": "Unemployment fell this year.",
+   "exTm": "Işsizlik şu ýyl azaldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "unemployment rate",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "vacancy",
+   "ipa": "/ˈveɪkənsi/",
+   "pos": "N",
+   "tm": "boş iş orny",
+   "ru": "вакансия",
+   "def": "an unfilled job position",
+   "ex": "There is a vacancy in the sales team.",
+   "exTm": "Satuw toparynda boş iş orny bar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "job vacancy",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "workaholic",
+   "ipa": "/ˌwɜːkəˈhɒlɪk/",
+   "pos": "N",
+   "tm": "işbaz",
+   "ru": "трудоголик",
+   "def": "a person who works too much",
+   "ex": "The workaholic never takes holidays.",
+   "exTm": "Işbaz hiç wagt dynç almaga gitmeýär.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "workforce",
+   "ipa": "/ˈwɜːkfɔːs/",
+   "pos": "N",
+   "tm": "işçi güýji",
+   "ru": "рабочая сила",
+   "def": "all the workers of a company",
+   "ex": "The workforce grew by ten per cent.",
+   "exTm": "Işçi güýji on göterim artdy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 1,
+     "lesson": "1B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "anger",
+   "ipa": "/ˈæŋɡə(r)/",
+   "pos": "N",
+   "tm": "gahar",
+   "ru": "гнев",
+   "def": "a strong feeling of displeasure",
+   "ex": "He spoke with anger in his voice.",
+   "exTm": "Sesinde gahar bilen gürledi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "feel anger",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "anxiety",
+   "ipa": "/æŋˈzaɪəti/",
+   "pos": "N",
+   "tm": "alada (ynjalyksyzlyk)",
+   "ru": "тревога",
+   "def": "a feeling of worry",
+   "ex": "Exams cause anxiety for students.",
+   "exTm": "Synaglar talyplarda alada döredýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "feel anxiety",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "courage",
+   "ipa": "/ˈkʌrɪdʒ/",
+   "pos": "N",
+   "tm": "edermenlik",
+   "ru": "мужество",
+   "def": "the ability to face danger",
+   "ex": "The firefighter showed great courage.",
+   "exTm": "Ýangyn söndüriji uly edermenlik görkezdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "have the courage",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "curiosity",
+   "ipa": "/ˌkjʊəriˈɒsəti/",
+   "pos": "N",
+   "tm": "interik",
+   "ru": "любопытство",
+   "def": "a wish to know things",
+   "ex": "Her curiosity never stops.",
+   "exTm": "Interigi hiç wagt gutaranok.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "out of curiosity",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "enthusiasm",
+   "ipa": "/ɪnˈθjuːziæzəm/",
+   "pos": "N",
+   "tm": "yhläs",
+   "ru": "энтузиазм",
+   "def": "a feeling of great interest",
+   "ex": "She talked with real enthusiasm.",
+   "exTm": "Hakyky yhläs bilen gürrüň berdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "show enthusiasm",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "friendship",
+   "ipa": "/ˈfrendʃɪp/",
+   "pos": "N",
+   "tm": "dostluk",
+   "ru": "дружба",
+   "def": "the relationship between friends",
+   "ex": "Their friendship lasted forty years.",
+   "exTm": "Dostlugy kyrk ýyl dowam etdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "happiness",
+   "ipa": "/ˈhæpinəs/",
+   "pos": "N",
+   "tm": "bagt",
+   "ru": "счастье",
+   "def": "the feeling of being happy",
+   "ex": "Money does not always bring happiness.",
+   "exTm": "Pul hemişe bagt getirmeýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "honesty",
+   "ipa": "/ˈɒnəsti/",
+   "pos": "N",
+   "tm": "dogruçyllyk",
+   "ru": "честность",
+   "def": "the quality of telling the truth",
+   "ex": "I appreciate your honesty.",
+   "exTm": "Dogruçyllygyňa baha berýärin.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "intelligence",
+   "ipa": "/ɪnˈtelɪdʒəns/",
+   "pos": "N",
+   "tm": "zeka",
+   "ru": "интеллект",
+   "def": "the ability to learn and understand",
+   "ex": "The puzzle tested my intelligence.",
+   "exTm": "Tapmaça zekamy synady.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "kindness",
+   "ipa": "/ˈkaɪndnəs/",
+   "pos": "N",
+   "tm": "mähirlilik",
+   "ru": "доброта",
+   "def": "the quality of being kind",
+   "ex": "Thank you for your kindness.",
+   "exTm": "Mähirliligiňiz üçin sag boluň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "loneliness",
+   "ipa": "/ˈləʊnlinəs/",
+   "pos": "N",
+   "tm": "ýalňyzlyk",
+   "ru": "одиночество",
+   "def": "sadness from being alone",
+   "ex": "Loneliness affects many old people.",
+   "exTm": "Ýalňyzlyk köp garrylara täsir edýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "patience",
+   "ipa": "/ˈpeɪʃns/",
+   "pos": "N",
+   "tm": "sabyr",
+   "ru": "терпение",
+   "def": "the ability to wait calmly",
+   "ex": "Teaching requires great patience.",
+   "exTm": "Mugallymçylyk uly sabyr talap edýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "lose patience",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "pride",
+   "ipa": "/praɪd/",
+   "pos": "N",
+   "tm": "buýsanç",
+   "ru": "гордость",
+   "def": "a feeling of pleasure in yourself",
+   "ex": "She spoke with pride about her son.",
+   "exTm": "Ogly barada buýsanç bilen gürledi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "take pride in",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "wealth",
+   "ipa": "/welθ/",
+   "pos": "N",
+   "tm": "baýlyk",
+   "ru": "богатство",
+   "def": "a large amount of money",
+   "ex": "He shared his wealth with others.",
+   "exTm": "Baýlygyny beýlekiler bilen paýlaşdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "acquaintance",
+   "ipa": "/əˈkweɪntəns/",
+   "pos": "N",
+   "tm": "tanyş",
+   "ru": "знакомый",
+   "def": "a person you know a little",
+   "ex": "He is an acquaintance, not a friend.",
+   "exTm": "Ol dost däl, tanyş.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "bond",
+   "ipa": "/bɒnd/",
+   "pos": "N",
+   "tm": "baglanyşyk (duýgy)",
+   "ru": "связь, узы",
+   "def": "a strong feeling between people",
+   "ex": "The twins have a special bond.",
+   "exTm": "Ekizleriň aýratyn baglanyşygy bar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "emotional bond",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "companion",
+   "ipa": "/kəmˈpæniən/",
+   "pos": "N",
+   "tm": "ýoldaş (hemra)",
+   "ru": "спутник, компаньон",
+   "def": "a person you spend time with",
+   "ex": "The dog was her faithful companion.",
+   "exTm": "It onuň wepaly ýoldaşy boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "engagement",
+   "ipa": "/ɪnˈɡeɪdʒmənt/",
+   "pos": "N",
+   "tm": "atlanysyklar",
+   "ru": "помолвка",
+   "def": "an agreement to marry",
+   "ex": "They announced their engagement.",
+   "exTm": "Atlanyşyklaryny yglan etdiler.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "marriage",
+   "ipa": "/ˈmærɪdʒ/",
+   "pos": "N",
+   "tm": "toý (nika)",
+   "ru": "брак, супружество",
+   "def": "the state of being married",
+   "ex": "Their marriage has lasted ten years.",
+   "exTm": "Nikalary on ýyl dowam etdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "happy marriage",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "mate",
+   "ipa": "/meɪt/",
+   "pos": "N",
+   "tm": "dost (ýoldaş)",
+   "ru": "приятель",
+   "def": "a friend (informal)",
+   "ex": "He went fishing with his mates.",
+   "exTm": "Dostlary bilen balyk tutmaga gitdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "relatives",
+   "ipa": "/ˈrelətɪvz/",
+   "pos": "N",
+   "tm": "garyndaşlar",
+   "ru": "родственники",
+   "def": "members of your family",
+   "ex": "All our relatives came to the wedding.",
+   "exTm": "Ähli garyndaşlarymyz toýa geldi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "sibling",
+   "ipa": "/ˈsɪblɪŋ/",
+   "pos": "N",
+   "tm": "dogan (aga-ini/uýa)",
+   "ru": "брат или сестра",
+   "def": "a brother or sister",
+   "ex": "Do you have any siblings?",
+   "exTm": "Doganyňyz barmy?",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "spouse",
+   "ipa": "/spaʊs/",
+   "pos": "N",
+   "tm": "ýanýoldaş",
+   "ru": "супруг(а)",
+   "def": "a husband or wife",
+   "ex": "You may bring your spouse to the dinner.",
+   "exTm": "Agşamlyk nahara ýanýoldaşyňyzy alyp gelip bilersiňiz.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "generation gap",
+   "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+   "pos": "N",
+   "tm": "nesil tapawudy",
+   "ru": "разрыв поколений",
+   "def": "differences between old and young",
+   "ex": "Music often shows the generation gap.",
+   "exTm": "Saz köplenç nesil tapawudyny görkezýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 2,
+     "lesson": "2B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "get away with",
+   "ipa": "/ɡet əˈweɪ wɪð/",
+   "pos": "PHR",
+   "tm": "jezasyz gutulmak",
+   "ru": "сходить с рук",
+   "def": "to do something wrong without punishment",
+   "ex": "He never gets away with lies.",
+   "exTm": "Ýalany hiç wagt jezasyz galmaýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "get by",
+   "ipa": "/ɡet baɪ/",
+   "pos": "PHR",
+   "tm": "güzeranyny dolamak",
+   "ru": "сводить концы с концами",
+   "def": "to manage with difficulty",
+   "ex": "They get by on a small salary.",
+   "exTm": "Az aýlyk bilen güzeranyny dolap gelýärler.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "get by on",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "get down to",
+   "ipa": "/ɡet daʊn tuː/",
+   "pos": "PHR",
+   "tm": "başlamak (çynlakaý)",
+   "ru": "браться за",
+   "def": "to start doing something seriously",
+   "ex": "Let us get down to work.",
+   "exTm": "Geliň, işe girişeliň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "get down to business",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "get over",
+   "ipa": "/ɡet ˈəʊvə(r)/",
+   "pos": "PHR",
+   "tm": "gutulmak (keselden)",
+   "ru": "оправиться от",
+   "def": "to recover from something bad",
+   "ex": "She finally got over the flu.",
+   "exTm": "Ahyry dümewden gutuldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "get over an illness",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "get together",
+   "ipa": "/ɡet təˈɡeðə(r)/",
+   "pos": "PHR",
+   "tm": "ýygnanmak",
+   "ru": "собираться вместе",
+   "def": "to meet and spend time",
+   "ex": "We get together every Sunday.",
+   "exTm": "Her ýekşenbe ýygnanýarys.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "get used to",
+   "ipa": "/ɡet ˈjuːzd tuː/",
+   "pos": "PHR",
+   "tm": "öwrenişmek",
+   "ru": "привыкать",
+   "def": "to become familiar with something",
+   "ex": "I got used to the cold weather.",
+   "exTm": "Sowuk howa öwrenişdim.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "get used to doing",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "get away",
+   "ipa": "/ɡet əˈweɪ/",
+   "pos": "PHR",
+   "tm": "gaçyp gutulmak",
+   "ru": "сбежать, вырваться",
+   "def": "to escape, or go on holiday",
+   "ex": "The thieves got away in a car.",
+   "exTm": "Ogrular maşyn bilen gaçyp gutuldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "get round to",
+   "ipa": "/ɡet ˈraʊnd tuː/",
+   "pos": "PHR",
+   "tm": "wagt tapyp etmek",
+   "ru": "собираться сделать",
+   "def": "to finally do something delayed",
+   "ex": "I never got round to calling him.",
+   "exTm": "Oňa jaň etmäge wagt tapmadym.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "battlefield",
+   "ipa": "/ˈbætlfiːld/",
+   "pos": "N",
+   "tm": "söweş meýdany",
+   "ru": "поле боя",
+   "def": "a place where a battle happens",
+   "ex": "The battlefield is now a museum.",
+   "exTm": "Söweş meýdany indi muzeý.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "casualty",
+   "ipa": "/ˈkæʒuəlti/",
+   "pos": "N",
+   "tm": "pidalar (ýitgiler)",
+   "ru": "жертвы, потери",
+   "def": "a person killed or injured in war",
+   "ex": "The battle caused many casualties.",
+   "exTm": "Söweş köp pidalara sebäp boldy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "civilian",
+   "ipa": "/səˈvɪliən/",
+   "pos": "N",
+   "tm": "asuda ilat",
+   "ru": "мирный житель",
+   "def": "a person not in the army",
+   "ex": "The war harmed many civilians.",
+   "exTm": "Uruş köp asuda ilata zyýan ýetirdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "defeat",
+   "ipa": "/dɪˈfiːt/",
+   "pos": "V",
+   "tm": "ýeňmek",
+   "ru": "побеждать (в войне)",
+   "def": "to win against an enemy",
+   "ex": "The army defeated the invaders.",
+   "exTm": "Goşun basyp alýjylary ýeňdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "defend",
+   "ipa": "/dɪˈfend/",
+   "pos": "V",
+   "tm": "goramak",
+   "ru": "защищать",
+   "def": "to protect from attack",
+   "ex": "The soldiers defended the city.",
+   "exTm": "Esgirler şäheri gorady.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "defend against",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "enemy",
+   "ipa": "/ˈenəmi/",
+   "pos": "N",
+   "tm": "duşman",
+   "ru": "враг",
+   "def": "a person or country you fight",
+   "ex": "The enemy attacked at dawn.",
+   "exTm": "Duşman dan atacasy hüjüm etdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "invade",
+   "ipa": "/ɪnˈveɪd/",
+   "pos": "V",
+   "tm": "basyp almak",
+   "ru": "вторгаться",
+   "def": "to enter a country by force",
+   "ex": "The invaders crossed the border.",
+   "exTm": "Basyp alýjylar serhetden geçdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "rescue",
+   "ipa": "/ˈreskjuː/",
+   "pos": "V",
+   "tm": "halas etmek",
+   "ru": "спасать",
+   "def": "to save someone from danger",
+   "ex": "Firefighters rescued the family.",
+   "exTm": "Ýangyn söndürijiler maşgalany halas etdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "rescue someone",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "siege",
+   "ipa": "/siːdʒ/",
+   "pos": "N",
+   "tm": "gabaw",
+   "ru": "осада",
+   "def": "surrounding a place to force surrender",
+   "ex": "The siege lasted three months.",
+   "exTm": "Gabaw üç aý dowam etdi.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "under siege",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "soldier",
+   "ipa": "/ˈsəʊldʒə(r)/",
+   "pos": "N",
+   "tm": "esger",
+   "ru": "солдат",
+   "def": "a member of an army",
+   "ex": "The soldier returned home.",
+   "exTm": "Esger öýüne gaýtdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "surrender",
+   "ipa": "/səˈrendə(r)/",
+   "pos": "V",
+   "tm": "boýun egmek",
+   "ru": "сдаваться",
+   "def": "to stop fighting and admit defeat",
+   "ex": "The troops were forced to surrender.",
+   "exTm": "Goşun boýun egmäge mejbur boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "victim",
+   "ipa": "/ˈvɪktɪm/",
+   "pos": "N",
+   "tm": "pida",
+   "ru": "жертва",
+   "def": "a person harmed by something",
+   "ex": "The victims received help quickly.",
+   "exTm": "Pidalar kömegi tiz aldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "victim of",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "weapon",
+   "ipa": "/ˈwepən/",
+   "pos": "N",
+   "tm": "ýarag",
+   "ru": "оружие",
+   "def": "an object used for fighting",
+   "ex": "The museum displays old weapons.",
+   "exTm": "Muzeý köne ýaraglary görkezýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "carry a weapon",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 3,
+     "lesson": "3B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "bestseller",
+   "ipa": "/ˌbestˈselə(r)/",
+   "pos": "N",
+   "tm": "iň köp satylýan kitap",
+   "ru": "бестселлер",
+   "def": "a book that sells in huge numbers",
+   "ex": "Her novel became a bestseller.",
+   "exTm": "Romany iň köp satylýan kitap boldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "blockbuster",
+   "ipa": "/ˈblɒkbʌstə(r)/",
+   "pos": "N",
+   "tm": "uly üstünlikli film",
+   "ru": "блокбастер",
+   "def": "a very successful film",
+   "ex": "The blockbuster earned millions.",
+   "exTm": "Uly üstünlikli film millionlar gazandy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "cliffhanger",
+   "ipa": "/ˈklɪfhæŋə(r)/",
+   "pos": "N",
+   "tm": "yzy gyzykly gutarýan",
+   "ru": "захватывающая концовка",
+   "def": "an ending that leaves you wanting more",
+   "ex": "The series ended on a cliffhanger.",
+   "exTm": "Serial yzy gyzykly gutardy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "gripping",
+   "ipa": "/ˈɡrɪpɪŋ/",
+   "pos": "ADJ",
+   "tm": "özüne bend edýän",
+   "ru": "захватывающий",
+   "def": "so exciting you cannot stop",
+   "ex": "It was a gripping thriller.",
+   "exTm": "Özüne bend edýän triller boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "masterpiece",
+   "ipa": "/ˈmɑːstəpiːs/",
+   "pos": "N",
+   "tm": "şedewr",
+   "ru": "шедевр",
+   "def": "an excellent work of art",
+   "ex": "The painting is a true masterpiece.",
+   "exTm": "Surat hakyky şedewr.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "moving",
+   "ipa": "/ˈmuːvɪŋ/",
+   "pos": "ADJ",
+   "tm": "täsirli (duýgur)",
+   "ru": "трогательный",
+   "def": "making you feel strong emotions",
+   "ex": "The ending was deeply moving.",
+   "exTm": "Soňy örän täsirli boldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "sequel",
+   "ipa": "/ˈsiːkwəl/",
+   "pos": "N",
+   "tm": "dowamy (kitap/film)",
+   "ru": "продолжение, сиквел",
+   "def": "a story that continues an earlier one",
+   "ex": "The sequel comes out next year.",
+   "exTm": "Dowamy indiki ýyl çykýar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "thriller",
+   "ipa": "/ˈθrɪlə(r)/",
+   "pos": "N",
+   "tm": "triller",
+   "ru": "триллер",
+   "def": "an exciting story about crime",
+   "ex": "I love a good thriller.",
+   "exTm": "Gowy trilleri gowy görýärin.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "trailer",
+   "ipa": "/ˈtreɪlə(r)/",
+   "pos": "N",
+   "tm": "film mahabaty",
+   "ru": "трейлер",
+   "def": "a short advertisement for a film",
+   "ex": "The trailer looks amazing.",
+   "exTm": "Film mahabaty ajaýyp görünýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "watch a trailer",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "twist",
+   "ipa": "/twɪst/",
+   "pos": "N",
+   "tm": "garaşylmadyk öwrüm",
+   "ru": "неожиданный поворот",
+   "def": "a surprising change in a story",
+   "ex": "The final twist shocked everyone.",
+   "exTm": "Soňky öwrüm hemmäni şok etdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "plot twist",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "accent",
+   "ipa": "/ˈæksent/",
+   "pos": "N",
+   "tm": "talaffuz (şiwä)",
+   "ru": "акцент",
+   "def": "a way of speaking from a region",
+   "ex": "She has a beautiful accent.",
+   "exTm": "Owadan talaffuzy bar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "foreign accent",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "echo",
+   "ipa": "/ˈekəʊ/",
+   "pos": "N",
+   "tm": "ýaň",
+   "ru": "эхо",
+   "def": "a sound that comes back",
+   "ex": "Our voices made an echo.",
+   "exTm": "Seslerimiz ýaň etdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "hoarse",
+   "ipa": "/hɔːs/",
+   "pos": "ADJ",
+   "tm": "ýogyn (sesi ýatyk)",
+   "ru": "охрипший",
+   "def": "with a rough voice",
+   "ex": "He was hoarse after shouting.",
+   "exTm": "Gygyrandan soň sesi ýatyk boldy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "mumble",
+   "ipa": "/ˈmʌmbl/",
+   "pos": "V",
+   "tm": "pyşyrdamak (aňsat eşitmezlik)",
+   "ru": "бормотать",
+   "def": "to speak unclearly and quietly",
+   "ex": "He mumbled an apology.",
+   "exTm": "Ötünç sorap pyşyrdady.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "mutter",
+   "ipa": "/ˈmʌtə(r)/",
+   "pos": "V",
+   "tm": "zöldürdemek",
+   "ru": "ворчать себе под нос",
+   "def": "to complain quietly under the breath",
+   "ex": "She muttered about the price.",
+   "exTm": "Baha barada zöldürdedi.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "scream",
+   "ipa": "/skriːm/",
+   "pos": "V",
+   "tm": "gygyrmak (gaty)",
+   "ru": "кричать, вопить",
+   "def": "to make a loud high sound",
+   "ex": "The fans screamed with joy.",
+   "exTm": "Janköýerler şatlykdan gygyrdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "shout",
+   "ipa": "/ʃaʊt/",
+   "pos": "V",
+   "tm": "gygyrmak",
+   "ru": "кричать",
+   "def": "to say something very loudly",
+   "ex": "Do not shout at the children.",
+   "exTm": "Çagalara gygyrma.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "shout at",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "sigh",
+   "ipa": "/saɪ/",
+   "pos": "V",
+   "tm": "ah çekmek",
+   "ru": "вздыхать",
+   "def": "to breathe out slowly with feeling",
+   "ex": "She sighed with relief.",
+   "exTm": "Ýeňillik bilen ah çekdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "squeak",
+   "ipa": "/skwiːk/",
+   "pos": "V",
+   "tm": "çyrlamak (ýuka ses)",
+   "ru": "пищать",
+   "def": "to make a short high sound",
+   "ex": "The mouse squeaked in the trap.",
+   "exTm": "Syçan duzakda çyrlady.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "whisper",
+   "ipa": "/ˈwɪspə(r)/",
+   "pos": "V",
+   "tm": "pyşyrdamak",
+   "ru": "шептать",
+   "def": "to speak very quietly",
+   "ex": "She whispered the answer.",
+   "exTm": "Jogaby pyşyrdady.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "whisper to",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 4,
+     "lesson": "4B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "ahead of time",
+   "ipa": "/əˈhed əv taɪm/",
+   "pos": "PHR",
+   "tm": "öňünden",
+   "ru": "заранее",
+   "def": "earlier than planned",
+   "ex": "We finished ahead of time.",
+   "exTm": "Öňünden gutardy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "behind schedule",
+   "ipa": "/bɪˈhaɪnd ˈʃedjuːl/",
+   "pos": "PHR",
+   "tm": "meýilnamadan yza galan",
+   "ru": "с опозданием от графика",
+   "def": "later than planned",
+   "ex": "The project is two weeks behind schedule.",
+   "exTm": "Taslama iki hepde yza galdy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "for the time being",
+   "ipa": "/fə ðə taɪm ˈbiːɪŋ/",
+   "pos": "PHR",
+   "tm": "häzirlikçe",
+   "ru": "на данный момент",
+   "def": "for now, but not for ever",
+   "ex": "Stay here for the time being.",
+   "exTm": "Häzirlikçe şu ýerde gal.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "in advance",
+   "ipa": "/ɪn ədˈvɑːns/",
+   "pos": "PHR",
+   "tm": "öňünden (öňünden tölemek)",
+   "ru": "заблаговременно",
+   "def": "before something happens",
+   "ex": "Book the tickets in advance.",
+   "exTm": "Biletleri öňünden bronla.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "pay in advance",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "in no time",
+   "ipa": "/ɪn nəʊ taɪm/",
+   "pos": "PHR",
+   "tm": "göz açyp ýumasy salymda",
+   "ru": "в мгновение ока",
+   "def": "very quickly",
+   "ex": "Dinner will be ready in no time.",
+   "exTm": "Agşamlyk göz açyp ýumasy salymda taýyn bolar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "on time",
+   "ipa": "/ɒn taɪm/",
+   "pos": "PHR",
+   "tm": "wagtynda",
+   "ru": "вовремя",
+   "def": "at the planned time",
+   "ex": "The train arrived on time.",
+   "exTm": "Otluda wagtynda geldi.",
+   "cefr": "A1",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "in time",
+   "ipa": "/ɪn taɪm/",
+   "pos": "PHR",
+   "tm": "wagty ýetip (giç galman)",
+   "ru": "вовремя (успеть)",
+   "def": "early enough to do something",
+   "ex": "We got there in time for dinner.",
+   "exTm": "Agşamlyk nahara wagty ýetip ýetdik.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "in time for",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "time after time",
+   "ipa": "/taɪm ˈɑːftə taɪm/",
+   "pos": "PHR",
+   "tm": "gaýta-gaýta",
+   "ru": "раз за разом",
+   "def": "again and again",
+   "ex": "He has warned you time after time.",
+   "exTm": "Saňa gaýta-gaýta duýdurdy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "from time to time",
+   "ipa": "/frɒm taɪm tuː taɪm/",
+   "pos": "PHR",
+   "tm": "wagtal-wagtal",
+   "ru": "время от времени",
+   "def": "sometimes, not often",
+   "ex": "We visit them from time to time.",
+   "exTm": "Wagtal-wagtal olara baryp görýäris.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "kill time",
+   "ipa": "/kɪl taɪm/",
+   "pos": "PHR",
+   "tm": "wagt öldürmek",
+   "ru": "коротать время",
+   "def": "to do something while waiting",
+   "ex": "We killed time at the airport.",
+   "exTm": "Howa menzilinde wagt öldürdik.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "bankrupt",
+   "ipa": "/ˈbæŋkrʌpt/",
+   "pos": "ADJ",
+   "tm": "müflüs",
+   "ru": "банкрот",
+   "def": "unable to pay your debts",
+   "ex": "The company went bankrupt last year.",
+   "exTm": "Kompaniýa geçen ýyl müflüs boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "go bankrupt",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "budget",
+   "ipa": "/ˈbʌdʒɪt/",
+   "pos": "N",
+   "tm": "büjet",
+   "ru": "бюджет",
+   "def": "a plan for spending money",
+   "ex": "We are on a tight budget this month.",
+   "exTm": "Şu aý büjetimiz gysyk.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "on a budget",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "currency",
+   "ipa": "/ˈkʌrənsi/",
+   "pos": "N",
+   "tm": "walýuta",
+   "ru": "валюта",
+   "def": "the money used in a country",
+   "ex": "The local currency is the manat.",
+   "exTm": "Ýerli walýuta manat.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "foreign currency",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "debt",
+   "ipa": "/det/",
+   "pos": "N",
+   "tm": "karz (bergi)",
+   "ru": "долг",
+   "def": "money that you owe",
+   "ex": "He paid off all his debts.",
+   "exTm": "Ähli bergilerini töledi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "pay off a debt",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "deposit",
+   "ipa": "/dɪˈpɒzɪt/",
+   "pos": "N",
+   "tm": "depozit (öňünden töleg)",
+   "ru": "залог, депозит",
+   "def": "part of the money paid first",
+   "ex": "We paid a deposit for the flat.",
+   "exTm": "Öý üçin depozit töledik.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "pay a deposit",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "fortune",
+   "ipa": "/ˈfɔːtʃuːn/",
+   "pos": "N",
+   "tm": "uly baýlyk",
+   "ru": "состояние, состояние денег",
+   "def": "a very large amount of money",
+   "ex": "The car cost a fortune.",
+   "exTm": "Maşyn uly baýlyga durdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "cost a fortune",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "income",
+   "ipa": "/ˈɪnkʌm/",
+   "pos": "N",
+   "tm": "girdeji (aýlyk)",
+   "ru": "доход",
+   "def": "money received regularly",
+   "ex": "Their income covers all expenses.",
+   "exTm": "Girdejileri ähli çykdajylary örtýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "monthly income",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "instalment",
+   "ipa": "/ɪnˈstɔːlmənt/",
+   "pos": "N",
+   "tm": "bölekleýin töleg",
+   "ru": "взнос, рассрочка",
+   "def": "one part of a total payment",
+   "ex": "We pay the loan in monthly instalments.",
+   "exTm": "Karzy aýlyk bölekleýin töleýäris.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "pay in instalments",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "pension",
+   "ipa": "/ˈpenʃn/",
+   "pos": "N",
+   "tm": "pensiýa (pul)",
+   "ru": "пенсия",
+   "def": "money paid after retirement",
+   "ex": "Her pension is paid monthly.",
+   "exTm": "Pensiýasy aýlyk tölenýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "state pension",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "tax",
+   "ipa": "/tæks/",
+   "pos": "N",
+   "tm": "salyk",
+   "ru": "налог",
+   "def": "money paid to the government",
+   "ex": "Income tax went up this year.",
+   "exTm": "Girdeji salygy şu ýyl galdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "pay tax",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "cheque",
+   "ipa": "/tʃek/",
+   "pos": "N",
+   "tm": "çek",
+   "ru": "чек",
+   "def": "a paper order to a bank to pay",
+   "ex": "He paid the rent by cheque.",
+   "exTm": "Kärendäni çek bilen töledi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "pay by cheque",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "coin",
+   "ipa": "/kɔɪn/",
+   "pos": "N",
+   "tm": "teňňe",
+   "ru": "монета",
+   "def": "a small flat piece of metal money",
+   "ex": "He tossed a coin to decide.",
+   "exTm": "Karar bermek üçin teňňe zyňdy.",
+   "cefr": "A1",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 5,
+     "lesson": "5B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "absent-minded",
+   "ipa": "/ˌæbsnt ˈmaɪndɪd/",
+   "pos": "ADJ",
+   "tm": "ünsüz (huşsuz)",
+   "ru": "рассеянный",
+   "def": "often forgetting things",
+   "ex": "The absent-minded professor lost his keys.",
+   "exTm": "Ünsüz professor açarlaryny ýitirdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "broad-minded",
+   "ipa": "/ˌbrɔːd ˈmaɪndɪd/",
+   "pos": "ADJ",
+   "tm": "giň pikirli",
+   "ru": "широко мыслящий",
+   "def": "accepting different opinions",
+   "ex": "Her broad-minded parents welcomed everyone.",
+   "exTm": "Giň pikirli ene-atasy hemmäni garşylady.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "deep-fried",
+   "ipa": "/ˌdiːp ˈfraɪd/",
+   "pos": "ADJ",
+   "tm": "ýagda gowrulan",
+   "ru": "жаренный во фритюре",
+   "def": "cooked in deep hot oil",
+   "ex": "Deep-fried food is not healthy.",
+   "exTm": "Ýagda gowrulan nahar peýdaly däl.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "first-class",
+   "ipa": "/ˌfɜːst ˈklɑːs/",
+   "pos": "ADJ",
+   "tm": "birinji derejeli",
+   "ru": "первоклассный",
+   "def": "of the best quality",
+   "ex": "We travelled first-class to London.",
+   "exTm": "Londona birinji derejeli gatnadyk.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "hard-working",
+   "ipa": "/ˌhɑːd ˈwɜːkɪŋ/",
+   "pos": "ADJ",
+   "tm": "zähmetsöýer",
+   "ru": "трудолюбивый",
+   "def": "putting a lot of effort into work",
+   "ex": "She is an honest, hard-working student.",
+   "exTm": "Dogruçyl, zähmetsöýer talyp.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "ill-mannered",
+   "ipa": "/ˌɪl ˈmænəd/",
+   "pos": "ADJ",
+   "tm": "edebsiz",
+   "ru": "невоспитанный",
+   "def": "having bad manners",
+   "ex": "The ill-mannered guest interrupted everyone.",
+   "exTm": "Edebsiz myhman hemmäniň sözünü kesdi.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "short-sighted",
+   "ipa": "/ˌʃɔːt ˈsaɪtɪd/",
+   "pos": "ADJ",
+   "tm": "uzagy görmeyän",
+   "ru": "близорукий; недальновидный",
+   "def": "unable to see far, or not planning ahead",
+   "ex": "It was a short-sighted decision.",
+   "exTm": "Uzagy görmeyän karar boldy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "well-behaved",
+   "ipa": "/ˌwel bɪˈheɪvd/",
+   "pos": "ADJ",
+   "tm": "edeply",
+   "ru": "воспитанный (о поведении)",
+   "def": "behaving politely",
+   "ex": "The well-behaved children sat quietly.",
+   "exTm": "Edepli çagalar sessiz otyrdy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "well-dressed",
+   "ipa": "/ˌwel ˈdrest/",
+   "pos": "ADJ",
+   "tm": "oňat geýnen",
+   "ru": "хорошо одетый",
+   "def": "wearing nice clothes",
+   "ex": "The well-dressed guests arrived at eight.",
+   "exTm": "Oňat geýnen myhmanlar sekizde geldi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "well-off",
+   "ipa": "/ˌwel ˈɒf/",
+   "pos": "ADJ",
+   "tm": "halatly (baý)",
+   "ru": "состоятельный",
+   "def": "having plenty of money",
+   "ex": "Her well-off family helped with the fees.",
+   "exTm": "Halatly maşgalasy töleglere kömek etdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "time-consuming",
+   "ipa": "/ˌtaɪm kənˈsjuːmɪŋ/",
+   "pos": "ADJ",
+   "tm": "wagt talap edýän",
+   "ru": "трудоёмкий",
+   "def": "taking a lot of time",
+   "ex": "Sorting photos is time-consuming.",
+   "exTm": "Suratlary tertiplemek wagt talap edýän iş.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "mouth-watering",
+   "ipa": "/ˌmaʊθ ˈwɔːtərɪŋ/",
+   "pos": "ADJ",
+   "tm": "agyz suwardyjy",
+   "ru": "аппетитный",
+   "def": "looking or smelling delicious",
+   "ex": "The cake looked mouth-watering.",
+   "exTm": "Tort agyz suwardyjy görünýärdi.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "backup",
+   "ipa": "/ˈbækʌp/",
+   "pos": "N",
+   "tm": "ätiýaç nusga",
+   "ru": "резервная копия",
+   "def": "a copy of data kept safe",
+   "ex": "Always make a backup of your files.",
+   "exTm": "Faýllaryňyzyň ätiýaç nusgasyny hemişe ediň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "make a backup",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "browser",
+   "ipa": "/ˈbraʊzə(r)/",
+   "pos": "N",
+   "tm": "brauzer",
+   "ru": "браузер",
+   "def": "a program for using the internet",
+   "ex": "Open the browser and type the address.",
+   "exTm": "Brauzeri açyň we salgyny ýazyň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "web browser",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "crash",
+   "ipa": "/kræʃ/",
+   "pos": "V",
+   "tm": "işlemez bolmak",
+   "ru": "зависать, падать (о программе)",
+   "def": "to stop working suddenly",
+   "ex": "My computer crashed twice today.",
+   "exTm": "Kompýuterim şu gün iki gezek işlemez boldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "gadget",
+   "ipa": "/ˈɡædʒɪt/",
+   "pos": "N",
+   "tm": "enjamjagaz (gajet)",
+   "ru": "гаджет",
+   "def": "a small clever device",
+   "ex": "He loves the latest gadgets.",
+   "exTm": "Iň täze gajetleri gowy görýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "electronic gadget",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "glitch",
+   "ipa": "/ɡlɪtʃ/",
+   "pos": "N",
+   "tm": "kiçi näsazlyk",
+   "ru": "мелкий сбой",
+   "def": "a small technical problem",
+   "ex": "A glitch delayed the update.",
+   "exTm": "Kiçi näsazlyk täzelenmäni giçikdirdi.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "network",
+   "ipa": "/ˈnetwɜːk/",
+   "pos": "N",
+   "tm": "tor",
+   "ru": "сеть",
+   "def": "a system of connected computers",
+   "ex": "The network is down again.",
+   "exTm": "Tor ýene işlemeýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "mobile network",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "notification",
+   "ipa": "/ˌnəʊtɪfɪˈkeɪʃn/",
+   "pos": "N",
+   "tm": "habarnama",
+   "ru": "уведомление",
+   "def": "a message telling you something",
+   "ex": "Turn off the notifications.",
+   "exTm": "Habarnamalary öçür.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "push notification",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "password",
+   "ipa": "/ˈpɑːswɜːd/",
+   "pos": "N",
+   "tm": "açarsöz",
+   "ru": "пароль",
+   "def": "a secret word to enter a system",
+   "ex": "Never share your password.",
+   "exTm": "Açarsözüňizi hiç wagt paýlaşmaň.",
+   "cefr": "A1",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "change your password",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "software",
+   "ipa": "/ˈsɒftweə(r)/",
+   "pos": "N",
+   "tm": "programma üpjünçiligi",
+   "ru": "программное обеспечение",
+   "def": "programs that run on computers",
+   "ex": "The software needs an update.",
+   "exTm": "Programma üpjünçiligi täzelenmeli.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "install software",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "spam",
+   "ipa": "/spæm/",
+   "pos": "N",
+   "tm": "islenmeýän hatlar",
+   "ru": "спам",
+   "def": "unwanted email messages",
+   "ex": "My inbox is full of spam.",
+   "exTm": "Poçta gutym islenmeýän hatlardan doly.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "spam email",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "update",
+   "ipa": "/ˈʌpdeɪt/",
+   "pos": "V",
+   "tm": "täzelemek",
+   "ru": "обновлять",
+   "def": "to make software newer",
+   "ex": "Update the app before the trip.",
+   "exTm": "Syýahatdan öň programmany täzeläň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "software update",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "virus",
+   "ipa": "/ˈvaɪrəs/",
+   "pos": "N",
+   "tm": "wirus",
+   "ru": "вирус (компьютерный)",
+   "def": "a program that damages computers",
+   "ex": "A virus deleted all my files.",
+   "exTm": "Wirus ähli faýllarymy pozdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "computer virus",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 6,
+     "lesson": "6B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "antisocial",
+   "ipa": "/ˌæntiˈsəʊʃl/",
+   "pos": "ADJ",
+   "tm": "jemgyýete garşy",
+   "ru": "антисоциальный",
+   "def": "avoiding other people",
+   "ex": "Staying home every night seems antisocial.",
+   "exTm": "Her agşam öýde galmak jemgyýete garşy görünýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "co-founder",
+   "ipa": "/ˌkəʊ ˈfaʊndə(r)/",
+   "pos": "N",
+   "tm": "bilelikde esaslandyryjy",
+   "ru": "сооснователь",
+   "def": "a person who starts a company with others",
+   "ex": "She is the co-founder of the app.",
+   "exTm": "Programmanyň bilelikde esaslandyryjysy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "counter-attack",
+   "ipa": "/ˌkaʊntər əˈtæk/",
+   "pos": "N",
+   "tm": "jogap hüjümi",
+   "ru": "контратака",
+   "def": "an attack in reply to another",
+   "ex": "The team scored on a counter-attack.",
+   "exTm": "Topar jogap hüjüminde utuk gazandy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "devalue",
+   "ipa": "/ˌdiːˈvæljuː/",
+   "pos": "V",
+   "tm": "bahasyny gaçyrmak",
+   "ru": "обесценивать",
+   "def": "to reduce the value of something",
+   "ex": "The currency was devalued.",
+   "exTm": "Walýutanyň bahasy gaçyryldy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "extraordinary",
+   "ipa": "/ɪkˈstrɔːdnri/",
+   "pos": "ADJ",
+   "tm": "adatdan daşary",
+   "ru": "необычайный",
+   "def": "very unusual and impressive",
+   "ex": "She has an extraordinary memory.",
+   "exTm": "Adatdan daşary ýady bar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "forearm",
+   "ipa": "/ˈfɔːrɑːm/",
+   "pos": "N",
+   "tm": "baldyr (el)",
+   "ru": "предплечье",
+   "def": "the part of the arm below the elbow",
+   "ex": "He tattooed his forearm.",
+   "exTm": "Eliniň baldyryna nakgaş etdirdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "international",
+   "ipa": "/ˌɪntəˈnæʃnəl/",
+   "pos": "ADJ",
+   "tm": "halkara",
+   "ru": "международный",
+   "def": "involving several countries",
+   "ex": "The airport handles international flights.",
+   "exTm": "Howa menzili halkara uçuşlary kabul edýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "multimedia",
+   "ipa": "/ˌmʌltiˈmiːdiə/",
+   "pos": "N",
+   "tm": "multimedia",
+   "ru": "мультимедиа",
+   "def": "using sound, video and text together",
+   "ex": "The lesson used multimedia tools.",
+   "exTm": "Sapak multimedia gurallaryny ulandy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "nonstop",
+   "ipa": "/ˌnɒnˈstɒp/",
+   "pos": "ADV",
+   "tm": "tohtamanzyn (fasylasysyz)",
+   "ru": "безостановочно",
+   "def": "without stopping",
+   "ex": "We flew nonstop to Ashgabat.",
+   "exTm": "Aşgabada tohtamanzyn uçduk.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "postgraduate",
+   "ipa": "/ˌpəʊstˈɡrædʒuət/",
+   "pos": "N",
+   "tm": "aspirant",
+   "ru": "аспирант",
+   "def": "a student studying after a degree",
+   "ex": "She is a postgraduate in physics.",
+   "exTm": "Fizika boýunça aspirant.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "preview",
+   "ipa": "/ˈpriːvjuː/",
+   "pos": "N",
+   "tm": "öňünden görkezme",
+   "ru": "предварительный просмотр",
+   "def": "an early look at something",
+   "ex": "We saw a preview of the film.",
+   "exTm": "Filmiň öňünden görkezmesini gördük.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "sneak preview",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "semicircle",
+   "ipa": "/ˈsemisɜːkl/",
+   "pos": "N",
+   "tm": "ýarym tegelek",
+   "ru": "полукруг",
+   "def": "half of a circle",
+   "ex": "The chairs stood in a semicircle.",
+   "exTm": "Stullar ýarym tegelek bolup durdy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "transfer",
+   "ipa": "/trænsˈfɜː(r)/",
+   "pos": "V",
+   "tm": "geçirmek",
+   "ru": "переводить, перемещать",
+   "def": "to move from one place to another",
+   "ex": "He transferred to another department.",
+   "exTm": "Başga bölüme geçdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "transfer money",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "underwear",
+   "ipa": "/ˈʌndəweə(r)/",
+   "pos": "N",
+   "tm": "içki geýim",
+   "ru": "нижнее бельё",
+   "def": "clothes worn under other clothes",
+   "ex": "Pack some clean underwear.",
+   "exTm": "Arassa içki geýim ýygnap goý.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "upgrade",
+   "ipa": "/ˈʌpɡreɪd/",
+   "pos": "V",
+   "tm": "gowulandyrmak (täzelemek)",
+   "ru": "модернизировать",
+   "def": "to improve to a better version",
+   "ex": "They upgraded our hotel room.",
+   "exTm": "Myhmanhana otagymyzy gowulandyrdylar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "upgrade to",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "artwork",
+   "ipa": "/ˈɑːtwɜːk/",
+   "pos": "N",
+   "tm": "sungat eseri",
+   "ru": "произведение искусства",
+   "def": "a painting or drawing",
+   "ex": "The gallery displays modern artwork.",
+   "exTm": "Galereýa häzirki zaman sungat eserlerini görkezýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "canvas",
+   "ipa": "/ˈkænvəs/",
+   "pos": "N",
+   "tm": "kanwas",
+   "ru": "холст",
+   "def": "cloth that paintings are done on",
+   "ex": "The artist painted on a huge canvas.",
+   "exTm": "Suratkeş ägirt kanwasda surat çekdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "contemporary",
+   "ipa": "/kənˈtemprəri/",
+   "pos": "ADJ",
+   "tm": "häzirki zaman",
+   "ru": "современный",
+   "def": "belonging to the present time",
+   "ex": "She collects contemporary art.",
+   "exTm": "Häzirki zaman sungatyny ýygnaýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "contemporary art",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "exhibition",
+   "ipa": "/ˌeksɪˈbɪʃn/",
+   "pos": "N",
+   "tm": "sergi",
+   "ru": "выставка",
+   "def": "a public show of art",
+   "ex": "The exhibition opens on Friday.",
+   "exTm": "Sergi anna güni açylýar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "visit an exhibition",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "landscape",
+   "ipa": "/ˈlændskeɪp/",
+   "pos": "N",
+   "tm": "tebigat görnüşi",
+   "ru": "пейзаж",
+   "def": "a picture of countryside",
+   "ex": "He painted a mountain landscape.",
+   "exTm": "Dag görnüşini surat çekdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "portrait",
+   "ipa": "/ˈpɔːtrət/",
+   "pos": "N",
+   "tm": "portret",
+   "ru": "портрет",
+   "def": "a picture of a person",
+   "ex": "The portrait hangs in the hall.",
+   "exTm": "Portret zalyň diwarynda asylgy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "paint a portrait",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "sculpture",
+   "ipa": "/ˈskʌlptʃə(r)/",
+   "pos": "N",
+   "tm": "heýkel",
+   "ru": "скульптура",
+   "def": "a statue or carved art",
+   "ex": "The sculpture stands in the park.",
+   "exTm": "Heýkel parkyň içinde dur.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "sketch",
+   "ipa": "/sketʃ/",
+   "pos": "N",
+   "tm": "çyzgy (garalama)",
+   "ru": "набросок, эскиз",
+   "def": "a quick simple drawing",
+   "ex": "She made a sketch of the old man.",
+   "exTm": "Garry adamyň çyzgysyny etdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "make a sketch",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "still life",
+   "ipa": "/ˌstɪl ˈlaɪf/",
+   "pos": "N",
+   "tm": "natýurmort",
+   "ru": "натюрморт",
+   "def": "a painting of objects like fruit",
+   "ex": "The still life shows apples and grapes.",
+   "exTm": "Natýurmortda alma we üzüm görkezilýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "out of the blue",
+   "ipa": "/aʊt əv ðə bluː/",
+   "pos": "PHR",
+   "tm": "duýdansyz",
+   "ru": "как гром среди ясного неба",
+   "def": "suddenly and unexpectedly",
+   "ex": "She called me out of the blue.",
+   "exTm": "Duýdansyz maňa jaň etdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "red tape",
+   "ipa": "/ˌred ˈteɪp/",
+   "pos": "N",
+   "tm": "kagyzbazlyk",
+   "ru": "бюрократия, волокита",
+   "def": "too many official rules",
+   "ex": "Red tape delayed the project.",
+   "exTm": "Kagyzbazlyk taslamany giçikdirdi.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "white lie",
+   "ipa": "/ˌwaɪt ˈlaɪ/",
+   "pos": "N",
+   "tm": "ýumşak ýalan",
+   "ru": "невинная ложь",
+   "def": "a small lie that does not hurt",
+   "ex": "It was just a white lie.",
+   "exTm": "Diňe ýumşak ýalan boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "tell a white lie",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 7,
+     "lesson": "7B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "antibiotic",
+   "ipa": "/ˌæntibaɪˈɒtɪk/",
+   "pos": "N",
+   "tm": "antibiotik",
+   "ru": "антибиотик",
+   "def": "medicine that kills bacteria",
+   "ex": "The doctor prescribed an antibiotic.",
+   "exTm": "Lukman antibiotik ýazdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "take antibiotics",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "check-up",
+   "ipa": "/ˈtʃek ʌp/",
+   "pos": "N",
+   "tm": "lukmançylyk barlagy",
+   "ru": "медосмотр",
+   "def": "a general medical examination",
+   "ex": "I have a check-up next week.",
+   "exTm": "Indiki hepde lukmançylyk barlagym bar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "medical check-up",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "cure",
+   "ipa": "/kjʊə(r)/",
+   "pos": "N",
+   "tm": "bejergi (emel)",
+   "ru": "лекарство, средство",
+   "def": "a treatment that ends an illness",
+   "ex": "There is no cure yet.",
+   "exTm": "Entek emel ýok.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "find a cure",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "diagnosis",
+   "ipa": "/ˌdaɪəɡˈnəʊsɪs/",
+   "pos": "N",
+   "tm": "kesel anyklama",
+   "ru": "диагноз",
+   "def": "a doctor's judgement of an illness",
+   "ex": "The diagnosis was made quickly.",
+   "exTm": "Diaгноз tiz goýuldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "make a diagnosis",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "dose",
+   "ipa": "/dəʊs/",
+   "pos": "N",
+   "tm": "doza",
+   "ru": "доза",
+   "def": "an amount of medicine",
+   "ex": "Take one dose every morning.",
+   "exTm": "Her irden bir doza içiň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "a dose of",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "GP",
+   "ipa": "/ˌdʒiː ˈpiː/",
+   "pos": "N",
+   "tm": "maşgala lukmany",
+   "ru": "врач общей практики",
+   "def": "a general practice doctor",
+   "ex": "Make an appointment with the GP.",
+   "exTm": "Maşgala lukmanyna ýazylyň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "go to the GP",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "injection",
+   "ipa": "/ɪnˈdʒekʃn/",
+   "pos": "N",
+   "tm": "ukol (sanjym)",
+   "ru": "укол, инъекция",
+   "def": "medicine given with a needle",
+   "ex": "The injection did not hurt.",
+   "exTm": "Ukol agyrmady.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "give an injection",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "operation",
+   "ipa": "/ˌɒpəˈreɪʃn/",
+   "pos": "N",
+   "tm": "operasiýa",
+   "ru": "операция",
+   "def": "a medical procedure inside the body",
+   "ex": "She had an operation on her heart.",
+   "exTm": "Ýüregine operasiýa etdirdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "have an operation",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "remedy",
+   "ipa": "/ˈremədi/",
+   "pos": "N",
+   "tm": "emel (halk bejergisi)",
+   "ru": "средство (от болезни)",
+   "def": "something that cures a problem",
+   "ex": "Honey is a good remedy for coughs.",
+   "exTm": "Bal üsgülewüğe gowy emel.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "home remedy",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "side effect",
+   "ipa": "/ˌsaɪd ɪˈfekt/",
+   "pos": "N",
+   "tm": "gapdal täsiri",
+   "ru": "побочный эффект",
+   "def": "an unwanted effect of medicine",
+   "ex": "The pill has no side effects.",
+   "exTm": "Dermanyň gapdal täsiri ýok.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "surgeon",
+   "ipa": "/ˈsɜːdʒən/",
+   "pos": "N",
+   "tm": "hirurg",
+   "ru": "хирург",
+   "def": "a doctor who does operations",
+   "ex": "The surgeon explained the risks.",
+   "exTm": "Hirurg howplary düşündirdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "treatment",
+   "ipa": "/ˈtriːtmənt/",
+   "pos": "N",
+   "tm": "bejergi",
+   "ru": "лечение",
+   "def": "care given for an illness",
+   "ex": "The treatment worked well.",
+   "exTm": "Bejergi gowy netije berdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "medical treatment",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "vaccination",
+   "ipa": "/ˌvæksɪˈneɪʃn/",
+   "pos": "N",
+   "tm": "waksina (sanjym)",
+   "ru": "вакцинация",
+   "def": "an injection that prevents disease",
+   "ex": "The vaccination protects children.",
+   "exTm": "Waksina çagalary goraýar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "get a vaccination",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8A",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "accommodation",
+   "ipa": "/əˌkɒməˈdeɪʃn/",
+   "pos": "N",
+   "tm": "ýaşaýyş ýeri",
+   "ru": "жильё, размещение",
+   "def": "a place to stay",
+   "ex": "The price includes accommodation.",
+   "exTm": "Baha ýaşaýyş ýerini hem öz içine alýar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "book accommodation",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "attraction",
+   "ipa": "/əˈtrækʃn/",
+   "pos": "N",
+   "tm": "görmeli ýer",
+   "ru": "достопримечательность",
+   "def": "a place tourists visit",
+   "ex": "The old city is the main attraction.",
+   "exTm": "Köne şäher esasy görmeli ýer.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "tourist attraction",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "backpacker",
+   "ipa": "/ˈbækpækə(r)/",
+   "pos": "N",
+   "tm": "ýeňil sumkaly syýahatçy",
+   "ru": "бэкпекер",
+   "def": "a traveller with a big bag",
+   "ex": "Backpackers prefer cheap hostels.",
+   "exTm": "Ýeňil sumkaly syýahatçylar arzan ýatakhanalary gowy görýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "brochure",
+   "ipa": "/ˈbrəʊʃə(r)/",
+   "pos": "N",
+   "tm": "buklet",
+   "ru": "брошюра",
+   "def": "a small book of travel information",
+   "ex": "The brochure lists all the hotels.",
+   "exTm": "Buklet ähli myhmanhanalary sanlaýar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "travel brochure",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "destination",
+   "ipa": "/ˌdestɪˈneɪʃn/",
+   "pos": "N",
+   "tm": "barmaly ýer",
+   "ru": "пункт назначения",
+   "def": "the place you travel to",
+   "ex": "Paris is a popular destination.",
+   "exTm": "Parij meşhur barmaly ýer.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "tourist destination",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "excursion",
+   "ipa": "/ɪkˈskɜːʃn/",
+   "pos": "N",
+   "tm": "ekskursiýa",
+   "ru": "экскурсия",
+   "def": "a short organised trip",
+   "ex": "We went on a boat excursion.",
+   "exTm": "Gaýyk ekskursiýasyna gitdik.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "go on an excursion",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "itinerary",
+   "ipa": "/aɪˈtɪnərəri/",
+   "pos": "N",
+   "tm": "syýahat meýilnamasy",
+   "ru": "маршрут",
+   "def": "a plan of a journey",
+   "ex": "The itinerary includes three cities.",
+   "exTm": "Syýahat meýilnamasy üç şäheri öz içine alýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "plan an itinerary",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "sightseeing",
+   "ipa": "/ˈsaɪtsiːɪŋ/",
+   "pos": "N",
+   "tm": "görmeli ýerleri görmek",
+   "ru": "осмотр достопримечательностей",
+   "def": "visiting famous places",
+   "ex": "We spent the morning sightseeing.",
+   "exTm": "Irdeniň dowamynda görmeli ýerleri gördük.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "go sightseeing",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "tourist",
+   "ipa": "/ˈtʊərɪst/",
+   "pos": "N",
+   "tm": "turist",
+   "ru": "турист",
+   "def": "a person visiting a place for pleasure",
+   "ex": "The old town is full of tourists.",
+   "exTm": "Köne şäher turistlerden doly.",
+   "cefr": "A1",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "resort",
+   "ipa": "/rɪˈzɔːt/",
+   "pos": "N",
+   "tm": "dynç alyş ýeri",
+   "ru": "курорт",
+   "def": "a place for holidays",
+   "ex": "Awaza is a seaside resort.",
+   "exTm": "Awaza deňiz kenaryndaky dynç alyş ýeri.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "beach resort",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "travel agent",
+   "ipa": "/ˈtrævl eɪdʒənt/",
+   "pos": "N",
+   "tm": "syýahat agenti",
+   "ru": "турагент",
+   "def": "a person who arranges trips",
+   "ex": "The travel agent found us a deal.",
+   "exTm": "Syýahat agenti bize arzan tapdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "holidaymaker",
+   "ipa": "/ˈhɒlədeɪmeɪkə(r)/",
+   "pos": "N",
+   "tm": "dynç alyşçy",
+   "ru": "отпускник",
+   "def": "a person on holiday",
+   "ex": "The beach was crowded with holidaymakers.",
+   "exTm": "Kenar dynç alyşçylardan doly boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 8,
+     "lesson": "8B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "animal rights",
+   "ipa": "/ˌænɪml ˈraɪts/",
+   "pos": "N",
+   "tm": "haýwan hukuklary",
+   "ru": "права животных",
+   "def": "the idea that animals deserve care",
+   "ex": "She campaigns for animal rights.",
+   "exTm": "Haýwan hukuklary üçin kampaniýa alyp barýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "cage",
+   "ipa": "/keɪdʒ/",
+   "pos": "N",
+   "tm": "gapas",
+   "ru": "клетка",
+   "def": "a box with bars for animals",
+   "ex": "The parrot escaped from its cage.",
+   "exTm": "Tötüji gapasdan gaçdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "in a cage",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "cruelty",
+   "ipa": "/ˈkruːəlti/",
+   "pos": "N",
+   "tm": "rehimsizlik",
+   "ru": "жестокость",
+   "def": "behaviour that causes suffering",
+   "ex": "Cruelty to animals is a crime.",
+   "exTm": "Haýwanlara rehimsizlik jenaýat.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "animal cruelty",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "extinction",
+   "ipa": "/ɪkˈstɪŋkʃn/",
+   "pos": "N",
+   "tm": "ýok bolmak (görnüşiň)",
+   "ru": "вымирание",
+   "def": "when a species dies out",
+   "ex": "The tiger faces extinction.",
+   "exTm": "Ýolbars ýok bolmak howpy astynda.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "face extinction",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "fur",
+   "ipa": "/fɜː(r)/",
+   "pos": "N",
+   "tm": "ýüň (haýwanyň)",
+   "ru": "мех",
+   "def": "the soft hair on animals",
+   "ex": "The cat has soft white fur.",
+   "exTm": "Pişigiň ýumşak ak ýüňi bar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "habitat",
+   "ipa": "/ˈhæbɪtæt/",
+   "pos": "N",
+   "tm": "ýaşaýyş gurşawy",
+   "ru": "среда обитания",
+   "def": "the natural home of an animal",
+   "ex": "Cutting trees destroys habitats.",
+   "exTm": "Agaçlary çapmak ýaşaýyş gurşawyny weýran edýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "natural habitat",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "hunt",
+   "ipa": "/hʌnt/",
+   "pos": "V",
+   "tm": "awlamak",
+   "ru": "охотиться",
+   "def": "to chase animals to catch them",
+   "ex": "Lions hunt at night.",
+   "exTm": "Ýolbarslar gije awlaýar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "poacher",
+   "ipa": "/ˈpəʊtʃə(r)/",
+   "pos": "N",
+   "tm": "bikanun awçy",
+   "ru": "браконьер",
+   "def": "a person who hunts illegally",
+   "ex": "Poachers killed the rhino.",
+   "exTm": "Bikanun awçylar karkidany öldürdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "stray",
+   "ipa": "/streɪ/",
+   "pos": "ADJ",
+   "tm": "eýesiz (haýwan)",
+   "ru": "бездомный (о животном)",
+   "def": "lost, with no home",
+   "ex": "A stray dog followed us home.",
+   "exTm": "Eýesiz it yzymyzdan öýe geldi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "stray cat",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "wildlife",
+   "ipa": "/ˈwaɪldlaɪf/",
+   "pos": "N",
+   "tm": "ýabany tebigat",
+   "ru": "дикая природа",
+   "def": "animals and plants in nature",
+   "ex": "The reserve protects wildlife.",
+   "exTm": "Goraghana ýabany tebigaty goraýar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "wildlife reserve",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9A",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "beat",
+   "ipa": "/biːt/",
+   "pos": "V",
+   "tm": "çalmak (ýumurtga)",
+   "ru": "взбивать",
+   "def": "to mix quickly, like eggs",
+   "ex": "Beat the eggs with sugar.",
+   "exTm": "Ýumurtgalary şeker bilen çal.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "beat the eggs",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "dice",
+   "ipa": "/daɪs/",
+   "pos": "V",
+   "tm": "kubik dogramak",
+   "ru": "нарезать кубиками",
+   "def": "to cut into small cubes",
+   "ex": "Dice the onions and carrots.",
+   "exTm": "Sogany we käşiri kubik dogra.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "grate",
+   "ipa": "/ɡreɪt/",
+   "pos": "V",
+   "tm": "gyrkmak (rende)",
+   "ru": "тереть на тёрке",
+   "def": "to rub food into small pieces",
+   "ex": "Grate the cheese over the pasta.",
+   "exTm": "Peýniri makaronyň üstüne gyrk.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "grate the cheese",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "knead",
+   "ipa": "/niːd/",
+   "pos": "V",
+   "tm": "ýugurmak (hamyr)",
+   "ru": "месить (тесто)",
+   "def": "to press dough with the hands",
+   "ex": "Knead the dough for ten minutes.",
+   "exTm": "Hamry on minut ýugur.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "melt",
+   "ipa": "/melt/",
+   "pos": "V",
+   "tm": "eremek",
+   "ru": "таять, топить",
+   "def": "to become liquid with heat",
+   "ex": "Melt the butter in a pan.",
+   "exTm": "Ýagy gazanda eredýiň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "melt the butter",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "peel",
+   "ipa": "/piːl/",
+   "pos": "V",
+   "tm": "gabygyny soýmak",
+   "ru": "чистить (кожуру)",
+   "def": "to take the skin off fruit",
+   "ex": "Peel the potatoes first.",
+   "exTm": "Ilki ýeralmanyň gabygyny sow.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "peel the potatoes",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "saucepan",
+   "ipa": "/ˈsɔːspən/",
+   "pos": "N",
+   "tm": "gazanjagaz",
+   "ru": "кастрюля",
+   "def": "a deep pan for cooking",
+   "ex": "Put the milk in a saucepan.",
+   "exTm": "Süýdi gazanjagaza guý.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "seasoning",
+   "ipa": "/ˈsiːznɪŋ/",
+   "pos": "N",
+   "tm": "tagam beriji",
+   "ru": "приправа",
+   "def": "salt, pepper and herbs",
+   "ex": "Add seasoning to taste.",
+   "exTm": "Tagamyna görä tagam beriji goşuň.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "add seasoning",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "sieve",
+   "ipa": "/sɪv/",
+   "pos": "N",
+   "tm": "ele",
+   "ru": "сито",
+   "def": "a tool with holes for separating",
+   "ex": "Sift the flour through a sieve.",
+   "exTm": "Uny elekden geçir.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "through a sieve",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "simmer",
+   "ipa": "/ˈsɪmə(r)/",
+   "pos": "V",
+   "tm": "haýal gaýnatmak",
+   "ru": "томить на медленном огне",
+   "def": "to cook just below boiling",
+   "ex": "Simmer the soup for twenty minutes.",
+   "exTm": "Çorbany ýigrimi minut haýal gaýnat.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "whisk",
+   "ipa": "/wɪsk/",
+   "pos": "V",
+   "tm": "galtaşdyryp çalmak",
+   "ru": "взбивать венчиком",
+   "def": "to beat with a special tool",
+   "ex": "Whisk the cream until thick.",
+   "exTm": "Gaýmagy goýalýança galtaşdyryp çal.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "marinade",
+   "ipa": "/ˈmærɪneɪd/",
+   "pos": "V",
+   "tm": "duzlama ýatyrmak",
+   "ru": "мариновать",
+   "def": "to leave food in a flavoured liquid",
+   "ex": "Marinade the chicken for an hour.",
+   "exTm": "Towugy bir sagat duzlamada ýatyryň.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 9,
+     "lesson": "9B",
+     "section": "vocabulary_bank"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "achievement",
+   "ipa": "/əˈtʃiːvmənt/",
+   "pos": "N",
+   "tm": "üstünlik (gazanylan)",
+   "ru": "достижение",
+   "def": "something important you succeed in",
+   "ex": "Graduating was a great achievement.",
+   "exTm": "Uniwersiteti gutarmak uly üstünlik boldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "great achievement",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "agreement",
+   "ipa": "/əˈɡriːmənt/",
+   "pos": "N",
+   "tm": "ylalaşyk",
+   "ru": "соглашение",
+   "def": "a decision people accept together",
+   "ex": "Both sides signed the agreement.",
+   "exTm": "Iki tarap hem ylalaşyga gol çekdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "sign an agreement",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "appointment",
+   "ipa": "/əˈpɔɪntmənt/",
+   "pos": "N",
+   "tm": "bellenen wagt (duşuşyk)",
+   "ru": "встреча, запись (на приём)",
+   "def": "an arranged meeting",
+   "ex": "I have a dentist appointment at four.",
+   "exTm": "Sagat dörtde diş lukmanyna ýazyldym.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "make an appointment",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "arrangement",
+   "ipa": "/əˈreɪndʒmənt/",
+   "pos": "N",
+   "tm": "gurnama (meýilleşdirme)",
+   "ru": "договорённость",
+   "def": "a plan made for something",
+   "ex": "We made arrangements for the trip.",
+   "exTm": "Syýahat üçin gurnama etdik.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "make arrangements",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "assessment",
+   "ipa": "/əˈsesmənt/",
+   "pos": "N",
+   "tm": "bahalandyryş",
+   "ru": "оценка, аттестация",
+   "def": "a judgement of quality",
+   "ex": "The assessment takes one hour.",
+   "exTm": "Bahalandyryş bir sagat alýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "assessment test",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "commitment",
+   "ipa": "/kəˈmɪtmənt/",
+   "pos": "N",
+   "tm": "ygrarlylyk",
+   "ru": "преданность, обязательство",
+   "def": "a promise to work hard at something",
+   "ex": "The job needs real commitment.",
+   "exTm": "Iş hakyky ygrarlylyk talap edýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "make a commitment",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "development",
+   "ipa": "/dɪˈveləpmənt/",
+   "pos": "N",
+   "tm": "ösüş",
+   "ru": "развитие",
+   "def": "the process of growing",
+   "ex": "The city saw rapid development.",
+   "exTm": "Şäher çalt ösüş gördi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "economic development",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "employment",
+   "ipa": "/ɪmˈplɔɪmənt/",
+   "pos": "N",
+   "tm": "iş bilen üpjünçilik",
+   "ru": "занятость",
+   "def": "having a paid job",
+   "ex": "Employment rose in the spring.",
+   "exTm": "Ýazda iş bilen üpjünçilik artdy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "full employment",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "entertainment",
+   "ipa": "/ˌentəˈteɪnmənt/",
+   "pos": "N",
+   "tm": "güýme",
+   "ru": "развлечение",
+   "def": "things that amuse people",
+   "ex": "The city offers great entertainment.",
+   "exTm": "Şäher ajaýyp güýme hödürleýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "live entertainment",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "equipment",
+   "ipa": "/ɪˈkwɪpmənt/",
+   "pos": "N",
+   "tm": "enjam",
+   "ru": "оборудование",
+   "def": "the things needed for an activity",
+   "ex": "The camping equipment is new.",
+   "exTm": "Kemping enjamy täze.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "sports equipment",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "failure",
+   "ipa": "/ˈfeɪljə(r)/",
+   "pos": "N",
+   "tm": "şowsuzlyk",
+   "ru": "неудача, провал",
+   "def": "not succeeding",
+   "ex": "Failure taught him a lot.",
+   "exTm": "Şowsuzlyk oňa köp zat övretdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "fear of failure",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "payment",
+   "ipa": "/ˈpeɪmənt/",
+   "pos": "N",
+   "tm": "töleg",
+   "ru": "платёж",
+   "def": "the act of paying",
+   "ex": "Payment is due at the end of the month.",
+   "exTm": "Töleg aýyň ahyrynda edilmeli.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "make a payment",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "performance",
+   "ipa": "/pəˈfɔːməns/",
+   "pos": "N",
+   "tm": "çykyş (tomaşa)",
+   "ru": "выступление, представление",
+   "def": "a show or act",
+   "ex": "Her performance was brilliant.",
+   "exTm": "Çykyşy ajaýyp boldy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "live performance",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "replacement",
+   "ipa": "/rɪˈpleɪsmənt/",
+   "pos": "N",
+   "tm": "çalşylma (çalyşma)",
+   "ru": "замена",
+   "def": "a person or thing that replaces another",
+   "ex": "We need a replacement for the old printer.",
+   "exTm": "Köne printere çalşylma gerek.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "replacement parts",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10A",
+     "section": "wordbuilding"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "advice",
+   "ipa": "/ədˈvaɪs/",
+   "pos": "N",
+   "tm": "maslahat",
+   "ru": "совет (существительное)",
+   "def": "an opinion about what to do",
+   "ex": "She gave me good advice.",
+   "exTm": "Gowy maslahat berdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "a piece of advice",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "advise",
+   "ipa": "/ədˈvaɪz/",
+   "pos": "V",
+   "tm": "maslahat bermek",
+   "ru": "советовать",
+   "def": "to give an opinion about what to do",
+   "ex": "I advise you to see a doctor.",
+   "exTm": "Lukmana görünmegi maslahat berýärin.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "advise someone to do",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "beside",
+   "ipa": "/bɪˈsaɪd/",
+   "pos": "PREP",
+   "tm": "ýanynda",
+   "ru": "рядом с",
+   "def": "next to something",
+   "ex": "The bag is beside the door.",
+   "exTm": "Sumka gapynyň ýanynda.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "besides",
+   "ipa": "/bɪˈsaɪdz/",
+   "pos": "ADV",
+   "tm": "mundan başga-da",
+   "ru": "кроме того",
+   "def": "in addition",
+   "ex": "Besides, it was too late.",
+   "exTm": "Mundan başga-da, gaty giçdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "compliment",
+   "ipa": "/ˈkɒmplɪmənt/",
+   "pos": "N",
+   "tm": "taryp",
+   "ru": "комплимент",
+   "def": "words that praise someone",
+   "ex": "He paid her a nice compliment.",
+   "exTm": "Oňa owadan taryp aýtdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "pay a compliment",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "complement",
+   "ipa": "/ˈkɒmplɪment/",
+   "pos": "V",
+   "tm": "üstüni ýetirmek",
+   "ru": "дополнять",
+   "def": "to go well with something",
+   "ex": "The sauce complements the fish.",
+   "exTm": "Sous balygyň üstüni ýetirýär.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "economic",
+   "ipa": "/ˌiːkəˈnɒmɪk/",
+   "pos": "ADJ",
+   "tm": "ykdysady",
+   "ru": "экономический",
+   "def": "about the economy",
+   "ex": "The country faces economic problems.",
+   "exTm": "Ýurt ykdysady kynçylyklar bilen ýüzbe-ýüz.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "economic growth",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "historic",
+   "ipa": "/hɪˈstɒrɪk/",
+   "pos": "ADJ",
+   "tm": "taryhy (möhüm)",
+   "ru": "исторический (знаменательный)",
+   "def": "famous in history",
+   "ex": "It was a historic victory.",
+   "exTm": "Taryhy ýeňiş boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "historic event",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "historical",
+   "ipa": "/hɪˈstɒrɪkl/",
+   "pos": "ADJ",
+   "tm": "taryhy (taryha degişli)",
+   "ru": "исторический (связанный с историей)",
+   "def": "about the past",
+   "ex": "She loves historical novels.",
+   "exTm": "Taryhy romanlary gowy görýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "historical novel",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "job",
+   "ipa": "/dʒɒb/",
+   "pos": "N",
+   "tm": "iş (bir wezipe)",
+   "ru": "работа (конкретная)",
+   "def": "a particular piece of work",
+   "ex": "He found a new job in May.",
+   "exTm": "Maý aýynda täze iş tapdy.",
+   "cefr": "A1",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "shade",
+   "ipa": "/ʃeɪd/",
+   "pos": "N",
+   "tm": "kölege (ýagtylykdan)",
+   "ru": "тень (от солнца)",
+   "def": "a place protected from sun",
+   "ex": "We sat in the shade of the tree.",
+   "exTm": "Agaçyň kölegesinde oturduk.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "in the shade",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "shadow",
+   "ipa": "/ˈʃædəʊ/",
+   "pos": "N",
+   "tm": "saýa",
+   "ru": "тень (силуэт)",
+   "def": "a dark shape made by light",
+   "ex": "His shadow stretched across the wall.",
+   "exTm": "Saýasy diwara düşdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "cast a shadow",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "travel",
+   "ipa": "/ˈtrævl/",
+   "pos": "N",
+   "tm": "syýahat",
+   "ru": "путешествие (вообще)",
+   "def": "the activity of travelling",
+   "ex": "Air travel is cheaper now.",
+   "exTm": "Howa syýahaty indi arzan.",
+   "cefr": "A1",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "air travel",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "trip",
+   "ipa": "/trɪp/",
+   "pos": "N",
+   "tm": "sapar (gysga)",
+   "ru": "поездка (конкретная)",
+   "def": "a short journey somewhere",
+   "ex": "We had a lovely trip to the mountains.",
+   "exTm": "Daglara ajaýyp sapar etdik.",
+   "cefr": "A1",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "day trip",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "price",
+   "ipa": "/praɪs/",
+   "pos": "N",
+   "tm": "baha (satuwda)",
+   "ru": "цена",
+   "def": "the amount something costs",
+   "ex": "The price includes breakfast.",
+   "exTm": "Baha ertirligi hem öz içine alýar.",
+   "cefr": "A1",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "ticket price",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "prize",
+   "ipa": "/praɪz/",
+   "pos": "N",
+   "tm": "baýrak",
+   "ru": "приз, премия",
+   "def": "something won in a competition",
+   "ex": "She won first prize.",
+   "exTm": "Birinji baýragy gazandy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "win a prize",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 10,
+     "lesson": "10B",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "How do you manage?",
+   "ipa": "/haʊ du ju ˈmænɪdʒ/",
+   "pos": "PHR",
+   "tm": "Nädip hötdeleýärsiň?",
+   "ru": "Как вы справляетесь?",
+   "def": "used to ask how someone copes",
+   "ex": "How do you manage with two jobs?",
+   "exTm": "Iki işi nädip hötdeleýärsiň?",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE1",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "work-life balance",
+   "ipa": "/ˌwɜːk laɪf ˈbæləns/",
+   "pos": "N",
+   "tm": "iş-öý deňagramlylygy",
+   "ru": "баланс работы и жизни",
+   "def": "an equal mix of work and home life",
+   "ex": "Good work-life balance keeps you healthy.",
+   "exTm": "Gowy iş-öý deňagramlylygy sagdyn saklaýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE1",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "I work from home.",
+   "ipa": "/aɪ wɜːk frɒm həʊm/",
+   "pos": "PHR",
+   "tm": "Öýden işleýärin.",
+   "ru": "Я работаю из дома.",
+   "def": "used to say where you work",
+   "ex": "I work from home twice a week.",
+   "exTm": "Hepdede iki gezek öýden işleýärin.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE1",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "It runs in the family.",
+   "ipa": "/ɪt rʌnz ɪn ðə ˈfæməli/",
+   "pos": "PHR",
+   "tm": "Maşgalada bar.",
+   "ru": "Это семейное (передаётся по наследству).",
+   "def": "used when a trait is inherited",
+   "ex": "Musical talent — it runs in the family.",
+   "exTm": "Saz zehini — maşgalada bar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE1",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "family business",
+   "ipa": "/ˈfæməli ˈbɪznəs/",
+   "pos": "N",
+   "tm": "maşgala kärhanasy",
+   "ru": "семейный бизнес",
+   "def": "a company owned by a family",
+   "ex": "They run a small family business.",
+   "exTm": "Kiçi maşgala kärhanasyny dolandyrýarlar.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE1",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "the breadwinner",
+   "ipa": "/ðə ˈbredwɪnə(r)/",
+   "pos": "N",
+   "tm": "maşgala ekleýji",
+   "ru": "кормилец",
+   "def": "the person who earns for a family",
+   "ex": "She is the main breadwinner.",
+   "exTm": "Maşgalanyň esasy ekleýjisi ol.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE1",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "work long hours",
+   "ipa": "/wɜːk lɒŋ ˈaʊəz/",
+   "pos": "PHR",
+   "tm": "uzak sagat işlemek",
+   "ru": "работать подолгу",
+   "def": "to work a lot",
+   "ex": "Doctors often work long hours.",
+   "exTm": "Lukmanlar köplenç uzak sagat işleýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE1",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "quality time",
+   "ipa": "/ˈkwɒləti taɪm/",
+   "pos": "N",
+   "tm": "hil wagty (maşgala bilen)",
+   "ru": "качественное время (с близкими)",
+   "def": "time spent giving full attention",
+   "ex": "Spend quality time with your children.",
+   "exTm": "Çagalaryňyz bilen hil wagtyny geçiriň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE1",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "date back to",
+   "ipa": "/deɪt bæk tuː/",
+   "pos": "PHR",
+   "tm": "şol döwürden galan",
+   "ru": "относиться к (о времени)",
+   "def": "used to say how old something is",
+   "ex": "The castle dates back to the twelfth century.",
+   "exTm": "Gala on ikinji asyrdan galan.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE2",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "steeped in history",
+   "ipa": "/stiːpt ɪn ˈhɪstri/",
+   "pos": "PHR",
+   "tm": "taryha baý",
+   "ru": "насыщенный историей",
+   "def": "used for very historic places",
+   "ex": "The old city is steeped in history.",
+   "exTm": "Köne şäher taryha baý.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE2",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "ancient ruins",
+   "ipa": "/ˈeɪnʃnt ˈruːɪnz/",
+   "pos": "N",
+   "tm": "gadymy harabalar",
+   "ru": "древние руины",
+   "def": "old buildings that have fallen",
+   "ex": "We explored the ancient ruins.",
+   "exTm": "Gadymy harabalary öwrendik.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE2",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "a turning point",
+   "ipa": "/ə ˈtɜːnɪŋ pɔɪnt/",
+   "pos": "N",
+   "tm": "öwrülişik nokady",
+   "ru": "поворотный момент",
+   "def": "a moment that changes everything",
+   "ex": "The battle was a turning point.",
+   "exTm": "Söweş öwrülişik nokady boldy.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE2",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "go down in history",
+   "ipa": "/ɡəʊ daʊn ɪn ˈhɪstri/",
+   "pos": "PHR",
+   "tm": "taryha girmek",
+   "ru": "войти в историю",
+   "def": "to be remembered for ever",
+   "ex": "She went down in history as a pioneer.",
+   "exTm": "Öňdebaryjy hökmünde taryha girdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE2",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "back in the day",
+   "ipa": "/bæk ɪn ðə deɪ/",
+   "pos": "PHR",
+   "tm": "köne döwürlerde",
+   "ru": "в былые времена",
+   "def": "used about the past",
+   "ex": "Back in the day, there was no internet.",
+   "exTm": "Köne döwürlerde internet ýokdy.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE2",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "living history",
+   "ipa": "/ˈlɪvɪŋ ˈhɪstri/",
+   "pos": "N",
+   "tm": "ýaşaýan taryh",
+   "ru": "живая история",
+   "def": "old traditions still alive today",
+   "ex": "The market is living history.",
+   "exTm": "Bazar ýaşaýan taryh.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE2",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "pass into legend",
+   "ipa": "/pɑːs ˈɪntə ˈledʒənd/",
+   "pos": "PHR",
+   "tm": "rowaýata öwrülmek",
+   "ru": "войти в легенды",
+   "def": "to become famous in stories",
+   "ex": "The hero passed into legend.",
+   "exTm": "Gahryman rowaýata öwrüldi.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE2",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "I'm stressed out.",
+   "ipa": "/aɪm ˌstrest ˈaʊt/",
+   "pos": "PHR",
+   "tm": "Dartgynly ýagdaýda.",
+   "ru": "Я в стрессе.",
+   "def": "used to say you feel too much pressure",
+   "ex": "I am stressed out before exams.",
+   "exTm": "Synagdan öň dartgynly ýagdaýda bolýaryn.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE3",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "wind down",
+   "ipa": "/waɪnd daʊn/",
+   "pos": "PHR",
+   "tm": "köşeşmek (dynç almak)",
+   "ru": "расслабляться (постепенно)",
+   "def": "to relax after activity",
+   "ex": "I wind down with a book.",
+   "exTm": "Kitap bilen köşeşýärin.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE3",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "recharge my batteries",
+   "ipa": "/ˌriːˈtʃɑːdʒ maɪ ˈbætriz/",
+   "pos": "PHR",
+   "tm": "güýjümi dikeltmek",
+   "ru": "подзарядиться",
+   "def": "to get energy back",
+   "ex": "A weekend at the lake recharges my batteries.",
+   "exTm": "Köl kenaryndaky hepde ahyry güýjümi dikeldýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE3",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "helps me unwind",
+   "ipa": "/helps miː ˌʌnˈwaɪnd/",
+   "pos": "PHR",
+   "tm": "maňa köşeşmäge kömek edýär",
+   "ru": "помогает мне расслабиться",
+   "def": "used to say what relaxes you",
+   "ex": "Walking helps me unwind.",
+   "exTm": "Ýöremek maňa köşeşmäge kömek edýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE3",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "burnout",
+   "ipa": "/ˈbɜːnaʊt/",
+   "pos": "N",
+   "tm": "ýadawlyk (işden)",
+   "ru": "выгорание",
+   "def": "exhaustion from working too hard",
+   "ex": "He had to stop working to avoid burnout.",
+   "exTm": "Ýadawlykdan gaça durmak üçin işi bes etmeli boldy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE3",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "chill out",
+   "ipa": "/tʃɪl aʊt/",
+   "pos": "PHR",
+   "tm": "dynç almak (gowşurmak)",
+   "ru": "расслабиться, отдохнуть",
+   "def": "to relax completely",
+   "ex": "Let us chill out by the pool.",
+   "exTm": "Geliň, howzuň ýanynda dynç alalyň.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE3",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "at breaking point",
+   "ipa": "/ət ˈbreɪkɪŋ pɔɪnt/",
+   "pos": "PHR",
+   "tm": "çydap bilmeýän ýagdaýda",
+   "ru": "на грани срыва",
+   "def": "almost unable to cope",
+   "ex": "She was at breaking point after the exams.",
+   "exTm": "Synaglardan soň çydap bilmeýän ýagdaýda boldy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE3",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "let off steam",
+   "ipa": "/let ɒf stiːm/",
+   "pos": "PHR",
+   "tm": "gaharyny çykarmak",
+   "ru": "выпустить пар",
+   "def": "to get rid of strong feelings",
+   "ex": "He runs to let off steam.",
+   "exTm": "Gaharyny çykarmak üçin ylgaw edýär.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE3",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "beautifully illustrated",
+   "ipa": "/ˈbjuːtɪfli ˈɪləstreɪtɪd/",
+   "pos": "ADJ",
+   "tm": "owadan suratlandyrylan",
+   "ru": "красочно иллюстрированный",
+   "def": "with lovely pictures",
+   "ex": "It is a beautifully illustrated book.",
+   "exTm": "Owadan suratlandyrylan kitap.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE4",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "bring it to life",
+   "ipa": "/brɪŋ ɪt tuː laɪf/",
+   "pos": "PHR",
+   "tm": "jana getirýär",
+   "ru": "оживляет",
+   "def": "used when pictures make a story vivid",
+   "ex": "The drawings bring the story to life.",
+   "exTm": "Çyzgylar hekaýany jana getirýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE4",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "graphic novel",
+   "ipa": "/ˈɡræfɪk ˈnɒvl/",
+   "pos": "N",
+   "tm": "komiks roman",
+   "ru": "графический роман",
+   "def": "a novel told in pictures",
+   "ex": "He reads graphic novels.",
+   "exTm": "Komiks romanlary okaýar.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE4",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "eye-catching",
+   "ipa": "/ˈaɪ kætʃɪŋ/",
+   "pos": "ADJ",
+   "tm": "göze ilýän",
+   "ru": "бросающийся в глаза",
+   "def": "immediately noticed",
+   "ex": "The poster is very eye-catching.",
+   "exTm": "Plakat gaty göze ilýän.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE4",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "the visuals",
+   "ipa": "/ðə ˈvɪʒuəlz/",
+   "pos": "N",
+   "tm": "wizual taraplary",
+   "ru": "визуальный ряд",
+   "def": "the images in a film or book",
+   "ex": "The visuals are stunning.",
+   "exTm": "Wizual taraplary haýran galdyryjy.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE4",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "The cover draws you in.",
+   "ipa": "/ðə ˈkʌvə(r) drɔːz juː ɪn/",
+   "pos": "PHR",
+   "tm": "Muqawasy özüne çekýär.",
+   "ru": "Обложка притягивает.",
+   "def": "used to praise a book cover",
+   "ex": "The cover draws you in immediately.",
+   "exTm": "Muqawasy dessine özüne çekýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE4",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "caption",
+   "ipa": "/ˈkæpʃn/",
+   "pos": "N",
+   "tm": "surat ýazgysy",
+   "ru": "подпись (к рисунку)",
+   "def": "words under a picture",
+   "ex": "Read the caption below the photo.",
+   "exTm": "Suratyň aşagyndaky ýazgyny oka.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "photo caption",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE4",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "full-page spread",
+   "ipa": "/ˌfʊl peɪdʒ ˈspred/",
+   "pos": "N",
+   "tm": "tutuş sahypa ýaýran",
+   "ru": "разворот на всю страницу",
+   "def": "a picture across a whole page",
+   "ex": "The map is a full-page spread.",
+   "exTm": "Karta tutuş sahypa ýaýran.",
+   "cefr": "B2",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE4",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "give me the creeps",
+   "ipa": "/ɡɪv miː ðə kriːps/",
+   "pos": "PHR",
+   "tm": "tenim ürkýär",
+   "ru": "меня пробирает дрожь",
+   "def": "used to say something scares you",
+   "ex": "Spiders give me the creeps.",
+   "exTm": "Mör-möjekler tenimi ürküzýär.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE5",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "bee sting",
+   "ipa": "/ˈbiː stɪŋ/",
+   "pos": "N",
+   "tm": "ary çakmasy",
+   "ru": "укус пчелы",
+   "def": "a wound from a bee",
+   "ex": "A bee sting can hurt a lot.",
+   "exTm": "Ary çakmasy gaty agyryp biler.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE5",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "insect bite",
+   "ipa": "/ˈɪnsekt baɪt/",
+   "pos": "N",
+   "tm": "möjek çakmasy",
+   "ru": "укус насекомого",
+   "def": "a mark from an insect",
+   "ex": "Put cream on the insect bite.",
+   "exTm": "Möjek çakmasyna krem çal.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE5",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "creepy-crawly",
+   "ipa": "/ˈkriːpi krɔːli/",
+   "pos": "N",
+   "tm": "ýyldyryjy mör-möjek",
+   "ru": "букашка (разг.)",
+   "def": "an insect or spider (informal)",
+   "ex": "There is a creepy-crawly on the wall!",
+   "exTm": "Diwarda ýyldyryjy mör-möjek bar!",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE5",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "harmless",
+   "ipa": "/ˈhɑːmləs/",
+   "pos": "ADJ",
+   "tm": "zyýansyz",
+   "ru": "безвредный",
+   "def": "causing no harm",
+   "ex": "The spider is completely harmless.",
+   "exTm": "Mör-möjek düýbünden zyýansyz.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE5",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "leave it alone",
+   "ipa": "/liːv ɪt əˈləʊn/",
+   "pos": "PHR",
+   "tm": "Ona degme.",
+   "ru": "Не трогай его.",
+   "def": "used to say do not disturb",
+   "ex": "That beetle is harmless — leave it alone.",
+   "exTm": "Şol tomzak zyýansyz — ona degme.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE5",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "spider web",
+   "ipa": "/ˈspaɪdə(r) web/",
+   "pos": "N",
+   "tm": "möjek tory",
+   "ru": "паутина",
+   "def": "the net a spider spins",
+   "ex": "A spider web covered the corner.",
+   "exTm": "Möjek tory burçy örtüpdi.",
+   "cefr": "A2",
+   "ox": "Oxford 3000",
+   "syn": "—",
+   "coll": "—",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE5",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  },
+  {
+   "en": "swarm",
+   "ipa": "/swɔːm/",
+   "pos": "N",
+   "tm": "topar (mör-möjek)",
+   "ru": "рой",
+   "def": "a large moving group of insects",
+   "ex": "A swarm of bees flew past.",
+   "exTm": "Ary topary uçup geçdi.",
+   "cefr": "B1",
+   "ox": "Oxford 5000",
+   "syn": "—",
+   "coll": "a swarm of bees",
+   "stage": "New",
+   "books": [
+    {
+     "book": "adv",
+     "unit": 11,
+     "lesson": "CE5",
+     "section": "vocabulary"
+    }
+   ],
+   "proofread": false,
+   "confidence": "high"
+  }
+ ]
+}

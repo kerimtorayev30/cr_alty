@@ -1,0 +1,237 @@
+{
+  "book": "pre",
+  "title": "English File Pre-intermediate",
+  "words": [
+    {
+      "en": "important",
+      "ipa": "/ɪmˈpɔːtnt/",
+      "pos": "ADJ",
+      "tm": "möhüm",
+      "ru": "важный",
+      "def": "Necessary or of great value, because it affects other things",
+      "ex": "It is important to learn new words every day.",
+      "exTm": "Her gün täze söz öwrenmek möhümdir.",
+      "cefr": "A2",
+      "ox": "Oxford 3000",
+      "syn": "significant, essential, crucial",
+      "coll": "very important, important for someone, an important decision",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 1
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "different",
+      "ipa": "/ˈdɪfrənt/",
+      "pos": "ADJ",
+      "tm": "dürli",
+      "ru": "разный",
+      "def": "Not the same as another thing or person",
+      "ex": "We have different opinions about the film.",
+      "exTm": "Film barada biziň pikirlerimiz dürli.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "various, distinct, unlike",
+      "coll": "completely different, different from, a different way",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 2
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "problem",
+      "ipa": "/ˈprɒbləm/",
+      "pos": "N",
+      "tm": "mesele",
+      "ru": "проблема",
+      "def": "A situation that is difficult to deal with or understand",
+      "ex": "We solved the problem together.",
+      "exTm": "Meseläni bilelikde çözdük.",
+      "cefr": "A2",
+      "ox": "Oxford 3000",
+      "syn": "difficulty, issue, trouble",
+      "coll": "big problem, solve a problem, no problem",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 3
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school",
+        "work"
+      ]
+    },
+    {
+      "en": "example",
+      "ipa": "/ɪɡˈzɑːmpl/",
+      "pos": "N",
+      "tm": "mysal",
+      "ru": "пример",
+      "def": "Something that shows what other things of the same kind are like",
+      "ex": "Can you give me an example, please?",
+      "exTm": "Maňa bir mysal getirip bilersiňizmi?",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "instance, sample, illustration",
+      "coll": "for example, a good example, set an example",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 3
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school"
+      ]
+    },
+    {
+      "en": "question",
+      "ipa": "/ˈkwestʃən/",
+      "pos": "N",
+      "tm": "sorag",
+      "ru": "вопрос",
+      "def": "A sentence or phrase used to ask for information",
+      "ex": "She asked a difficult question.",
+      "exTm": "Ol kyn sorag berdi.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "query, enquiry",
+      "coll": "ask a question, answer a question, exam question",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 4
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "answer",
+      "ipa": "/ˈɑːnsə/",
+      "pos": "N",
+      "tm": "jogap",
+      "ru": "ответ",
+      "def": "Something that you say or write to reply to a question",
+      "ex": "Nobody knew the answer to question five.",
+      "exTm": "Bäşinji soraga hiç kim jogap bilmedi.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "reply, response, solution",
+      "coll": "the right answer, give an answer, in answer to",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 4
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school",
+        "high-frequency"
+      ]
+    },
+    {
+      "en": "decide",
+      "ipa": "/dɪˈsaɪd/",
+      "pos": "V",
+      "tm": "karar bermek",
+      "ru": "решать",
+      "def": "To choose something after thinking about several possibilities",
+      "ex": "We decided to stay at home.",
+      "exTm": "Öýde galmak kararyna geldik.",
+      "cefr": "A2",
+      "ox": "Oxford 3000",
+      "syn": "choose, settle on, opt",
+      "coll": "decide to do something, decide on something, make a decision",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 7
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "en": "improve",
+      "ipa": "/ɪmˈpruːv/",
+      "pos": "V",
+      "tm": "gowulandyrmak",
+      "ru": "улучшать",
+      "def": "To make something better, or to become better",
+      "ex": "Reading every day improves your vocabulary.",
+      "exTm": "Her gün okamak sözlük baýlygyňyzy gowulandyrýar.",
+      "cefr": "A2",
+      "ox": "Oxford 3000",
+      "syn": "get better, enhance, upgrade",
+      "coll": "improve your English, improve quickly, room for improvement",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 8
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school",
+        "work"
+      ]
+    },
+    {
+      "en": "remember",
+      "ipa": "/rɪˈmembə/",
+      "pos": "V",
+      "tm": "ýatda saklamak",
+      "ru": "помнить",
+      "def": "To keep something in your mind so that you can think of it later",
+      "ex": "Remember to bring your notebook.",
+      "exTm": "Depderiňizi getirmegi ýatda saklaň.",
+      "cefr": "A1",
+      "ox": "Oxford 3000",
+      "syn": "recall, recollect",
+      "coll": "remember to do something, remember someone's name",
+      "stage": "New",
+      "books": [
+        {
+          "book": "pre",
+          "unit": 9
+        }
+      ],
+      "proofread": false,
+      "tags": [
+        "school",
+        "high-frequency"
+      ]
+    }
+  ]
+}
