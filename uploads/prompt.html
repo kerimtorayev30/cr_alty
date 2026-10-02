@@ -1,0 +1,214 @@
+# ÝATLA — PROJECT HANDOFF PROMPT
+### Give this entire file to your AI assistant along with the workspace files.
+
+---
+
+## 1. YOUR ROLE
+
+You are continuing development of **Ýatla** ("Remember" in Turkmen) — a Duolingo-style
+vocabulary learning app for Turkmen students using Oxford English File textbooks.
+A working, feature-rich UI/UX prototype already exists and is fully tested. Your job is
+to keep improving it and/or take it to production. **Read this whole brief before
+touching any file.** Do not rewrite the app from scratch — extend `app-yatla.html`.
+
+---
+
+## 2. PRODUCT IDENTITY
+
+- **Name:** Ýatla (brand mark: `ýatla.` — lowercase, green, gold dot)
+- **Audience:** Turkmenistan students learning English with Oxford English File books
+- **Languages:** UI fully translated in **EN / TM (Turkmen) / RU (Russian)**. Learning
+  content stays English; dictionary is EN ↔ TM ↔ RU.
+- **Nav (5 tabs):** Home | Learning | Search | League | Profile
+- **Design system:** Duolingo-inspired. Colors: `--green #58BE2F`, `--deep #1F502D`,
+  `--bg #F6FAF1`, `--mint #E9F6DA`, `--gold #FACC15`, `--orange #F97316`.
+  Rounded font stack starting `ui-rounded`. Rounded cards (18px), chunky buttons with
+  3D bottom shadow (`box-shadow:0 4px 0 <dark>`).
+- **Tone:** playful, motivating, streak/gem-driven (single currency: **gems 💎** — XP was
+  deliberately removed to avoid confusing users; do NOT reintroduce a second currency).
+
+---
+
+## 3. FILE MAP (workspace)
+
+| File | What it is |
+|---|---|
+| **`app-yatla.html`** | ⭐ THE deliverable. Single-file app: all HTML/CSS/JS/images inline (~223 KB, ~1,210 lines). Everything below refers to this file unless noted. |
+| `app-prototype.html` | Older phase-2 prototype. Reference only — do not edit. |
+| `Yatla-Gap-Analysis.xlsx` | 5 sheets: **USER ACTION LIST** (tasks only the human owner can do), GAP ANALYSIS (36 items with FIXED-BY-AI / PARTIAL statuses), CONTENT INVENTORY, ENGAGEMENT ROADMAP, LAUNCH CHECKLIST. |
+| `ROADMAP.md` | Ship-it plan: Capacitor wrapping, persistence, JSON content, TTS, OUP licensing, store submission. |
+| `uploads/prompt 3.pdf` | The original master product spec from the owner. |
+| `uploads/image-1.png` | Owner's UI reference image (design must follow it). |
+| `concepts/`, `ui-assets/` | Phase-1 mascot/logo concept art (fox mascot "Ember" etc.). Optional context. |
+| `package.json` | Only dev dependency: `jsdom` (used for testing, see §8). |
+
+---
+
+## 4. ARCHITECTURE OF `app-yatla.html`
+
+Single `<style>` block, HTML markup (phone frame `.phone` > `.screen` divs), then one
+`<script>` with clearly commented sections:
+
+```
+/* DATA */                    WORDS[12 demo entries], BOOKS[6], I18N{en,tk,ru}, STAGE_K/C
+/* NAV / TABS */              buildTabs(), go(id), tab click delegation
+/* THEME / LANG */            setTheme(d), setLang(l)   ← every visible string flows through these
+/* HOME */                    refreshHome(), chest, freeze, chips, event banner
+/* LEARNING */                renderLearning() — views: books → units → vocab → complete → review → summary
+/* REVIEW */                  startReview(), renderReview(), revClick() — flashcards + fill-blank
+/* SEARCH */                  filt(), openWord(w), detail view, favorites
+/* LESSON MCQ */              scr-lesson multiple-choice question (Turkmen options, correct = "salam")
+/* REAL SYSTEMS (local-first) */ save/load, auth, sfx, hz, speak, confetti, bots/renderLeague,
+                              avatar upload, sound/notif switches, analytics track(), delegation
+/* INIT */                    load() → build UI → setLang → refreshHome → renderLeague → applyProfile → track
+```
+
+### 4.1 State
+
+```js
+const S={gems:320,chest:false,freeze:false,words:7,goal:10,streak:7,lang:"en",
+ theme:"light",favs:Set,premium:false,lv:{view,book,unit,idx,session},rev:null,
+ filter:"all",sound:true,events:{},user:null,avatar:null};
+```
+
+**Persistence:** `localStorage` keys `yatla_state` (full S snapshot, autosave every 2 s +
+`beforeunload` + `visibilitychange`) and `yatla_users` (`{email:{n:name,h:passwordHash}}`).
+Passwords hashed SHA-256 via `crypto.subtle` with djb2 fallback. **Auth is local-first**
+(on-device). Cloud auth (Firebase/Supabase) is a pending owner task — keep the local flow
+working when you add it.
+
+### 4.2 i18n — critical convention
+
+- Every visible string uses `data-i18n="key"` attributes or the `t("key",{params})` helper.
+- `I18N` has three complete dictionaries (en, tk, ru). **Any new user-visible string must
+  be added to ALL THREE dictionaries** or the app silently falls back to English.
+- `setLang(l)` re-renders everything dynamic (tabs, home, learning, search, league,
+  profile, premium UI). If you add a dynamic renderer, hook it into `setLang`.
+
+### 4.3 Screens
+
+`scr-onboard` → `scr-auth` (signup/login) → `scr-goal` → `scr-home`; tabs switch
+`scr-learning / scr-search / scr-league / scr-profile`; `scr-lesson` is the MCQ overlay.
+Navigation = `go(id)` toggles `.screen.on`; nav depth in Learning is ≤ 3.
+
+### 4.4 Media rules (sandbox)
+
+The owner previews files in a **sandboxed iframe with NO network access**:
+- No external CSS/JS/fonts/images. Everything inline or base64 data-URI.
+- System font stack only. Icons = inline `<symbol>` SVGs (`#i-home`, `#i-gem`,
+  `#i-crown`, `#i-vb`, tier shields `#i-tbz/sv/gd/sp/em/lg`, …).
+
+---
+
+## 5. FEATURES ALREADY WORKING (do not regress)
+
+**Engagement:** daily goal onboarding (5/10/15 words), daily reward chest (+5–15 💎,
+once/day), streak + streak freeze (costs 200 💎), 2× weekend event banner, word-of-the-day
+share card, invite friends (+50 💎), confetti celebrations.
+
+**Learning:** books → units → vocab cards (word, IPA, TM/RU, definition, example,
+memory-stage chip) → unit complete (+40 💎, +80 premium) → smart review (flashcards +
+fill-in-the-blank, summary with accuracy) → MCQ lesson (+10 💎, +20 premium).
+Simulated book downloads with progress. TTS via `speechSynthesis` on every 🔊 button.
+
+**Search:** instant EN/TM/RU filtering, full word profile (def, example, synonyms,
+collocations, CEFR, stats), favorites with **realtime** heart updates everywhere.
+
+**League:** 7 seeded bot opponents, weekly LP, live ranked leaderboard with YOU row,
+tier system Bronze→Silver→Gold→Sapphire→Emerald→Legend (unique gradient shield icons,
+hero card with progress to next tier, tier rail with locked states). LP = `200+(gems%320)`.
+
+**Auth (local):** signup with validation + age gate, login, SHA-256 hashing, error
+messages ×3 languages, session persists across reloads.
+
+**Profile:** analytics stats + local event log (`track(name)`), achievements, favorites,
+downloaded books, settings (language seg, dark mode, sound switch, notification switch),
+avatar upload (camera/gallery → base64), logout.
+
+**Premium (simulated purchase, persisted):** gold luxury card with shine animation;
+activating gives: gold **verified badge** (`#i-vb`, the Ýatla equivalent of Instagram's
+blue check) next to the name in profile AND league, 👑 crown, gold avatar ring,
+★ Premium badge, home ribbon "Premium · earning 2× gems", gold-glowing active tab,
+gold-gradient brand, ×2 gem boosts on MCQ/units/reviews, "Cancel Premium (demo)" link.
+Real billing = pending owner task (Play Billing / StoreKit).
+
+**Global:** dark mode (deep palette, tuned overrides for inline light colors), sound
+effects (WebAudio, mutable), haptics (`navigator.vibrate`, guarded), floating language
+quick-switcher FAB (bottom-left, visible on every app screen, lifts on lesson screen),
+toast system, keyboard-free mobile-first layout (390×822 phone frame; full-screen
+"installed app" mode ≤640px).
+
+---
+
+## 6. WHAT REMAINS (see `Yatla-Gap-Analysis.xlsx` → USER ACTION LIST for owner tasks)
+
+The owner must handle: OUP license decision, dev-store accounts, Firebase/Supabase
+project + keys, OAuth client IDs, FCM/APNs, billing merchant setup, native TM/RU
+proofreading, real-device QA, hosting Privacy/Terms, store assets.
+
+**What an AI can do next (highest value first):**
+1. **Content scale:** WORDS has 12 demo entries → design a JSON content pipeline for
+   2,500–3,500 words (fields already exist per word object: `en,tm,ru,ipa,pos,def,ex,exTm,syn,coll,cefr,ox,stage`).
+2. **Cloud sync layer:** abstract `save()/load()` so a Firebase/Supabase adapter can be
+   dropped in without touching UI code (owner provides keys).
+3. **Push notifications:** real FCM integration behind the existing `notifSw` switch.
+4. **Capacitor wrap:** ROADMAP.md has the commands; produces Android/iOS builds.
+5. **Offline dictionary index** + downloadable audio packs (TTS is the fallback today).
+6. **Accessibility pass:** aria-labels exist on key controls; a full WCAG audit is open.
+
+---
+
+## 7. CODING RULES (hard-won — follow them)
+
+1. **Single file stays single file.** Inline everything.
+2. **Never break the base64 images.** When editing, never include base64 strings in
+   search/replace anchors — cut your anchor before `src="`. (One avatar `<img>` has a
+   huge base64 src; its `id="pfAv"` is assigned in JS for this reason.)
+3. **A single syntax error kills the whole app.** After ANY edit run §8 checks before
+   claiming done.
+4. **Guard optional browser APIs** (`speechSynthesis`, `AudioContext`, `navigator.vibrate`,
+   `Notification`, `crypto.subtle`) — jsdom and some browsers lack them; every call is
+   try/caught or feature-checked. Keep it that way.
+5. **Don't shadow helpers:** `$`, `$$`, `t()`, `go()`, `sfx()`, `hz()` are used everywhere.
+6. New screens/strings: add i18n to **en, tk, ru** simultaneously; test TK too.
+7. Keep the fixed Home component order and ≤3-level nav depth (owner requirement).
+8. Currency is gems only. Prices: freeze 200 💎, invite +50 💎, chest +5–15 💎.
+9. Preserve the owner's UX directives: mobile full-screen mode ≤640px; language must be
+   switchable at any moment (the globe FAB); premium status must be *visible* (badges,
+   gold UI), not just text.
+
+---
+
+## 8. VERIFICATION WORKFLOW (mandatory before presenting any change)
+
+```bash
+# 1) Extract the inline script and syntax-check
+python3 -c "import re;h=open('app-yatla.html').read();open('/tmp/y.js','w').write(re.search(r'<script>(.*?)</script>',h,re.S).group(1))"
+node --check /tmp/y.js
+
+# 2) jsdom smoke test (npm i jsdom once). Pattern that works:
+#    - boot with beforeParse() to seed localStorage BEFORE scripts run
+#    - VirtualConsole captures jsdomError → assert zero errors
+#    - click through flows with async onclick → await ~50ms ticks
+```
+Reference test journeys already proven: signup → goal → home; wrong password →
+`err_wrong`; chest/freeze; MCQ correct → +10/+20 gems; fav toggle realtime; premium
+activate/cancel + persistence across reload; setLang('tk') retranslates everything;
+reload restores state (use `beforeParse` injection — setting localStorage after the
+JSDOM constructor is too late).
+
+**Honesty rule:** never tell the owner something works without running these checks.
+The owner caught false "it works" claims before and explicitly asked for verified work.
+
+---
+
+## 9. COMMUNICATION
+
+- The owner writes in English and Turkish/Turkmen; reply in the language of their message.
+- They prefer: working code over plans, updated spreadsheets when scope changes,
+  and clear separation of "AI did this" vs "only you (owner) can do this".
+
+---
+
+*End of brief. Start by opening `app-yatla.html`, then run the §8 checks to confirm the
+baseline is green before changing anything.*
