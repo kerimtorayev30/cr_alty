@@ -1,0 +1,14 @@
+{
+  "name": "yatla",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ýatla — the single-file app plus its jsdom test suites. The content pipeline has its own package.json in content/.",
+  "scripts": {
+    "verify": "bash verify.sh",
+    "test": "node tests/baseline.js && node tests/integration.js",
+    "content": "cd content && npm run check"
+  },
+  "devDependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
