@@ -1,0 +1,221 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://yatla.app/schema/word-entry.schema.json",
+  "title": "Ýatla word entry",
+  "description": "One vocabulary entry in the Ýatla content pipeline. Field names match the WORDS[] object shape already used in app-yatla.html (en, tm, ru, ipa, pos, def, ex, exTm, syn, coll, cefr, ox, stage).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "en",
+    "tm",
+    "ru",
+    "ipa",
+    "pos",
+    "def",
+    "ex",
+    "exTm",
+    "cefr",
+    "ox",
+    "stage",
+    "syn",
+    "coll"
+  ],
+  "properties": {
+    "en": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "pattern": "^[A-Za-zÀ-ÖØ-öø-ÿ0-9'\\-\\. /()?,]+$",
+      "description": "The English headword, or a phrase the book teaches as a unit (\"turn left\", \"Excuse me, where is the station\")."
+    },
+    "tm": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120,
+      "description": "Turkmen translation. Latin script with Ý ý Ä ä Ň ň Ö ö Ü ü Ç ç Ş ş. No Cyrillic."
+    },
+    "ru": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120,
+      "pattern": ".*[\\u0400-\\u04FF].*",
+      "description": "Russian translation. Must contain Cyrillic."
+    },
+    "ipa": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 60,
+      "pattern": "^/.*/$",
+      "description": "IPA transcription wrapped in slashes, e.g. \"/həˈləʊ/\" — the app prints w.ipa verbatim next to the headword."
+    },
+    "pos": {
+      "enum": [
+        "N",
+        "V",
+        "ADJ",
+        "ADV",
+        "PREP",
+        "CONJ",
+        "PRON",
+        "DET",
+        "INTJ",
+        "PHR",
+        "NUM",
+        "ORD"
+      ],
+      "description": "Part of speech, UPPERCASE — app-yatla.html prints w.pos verbatim. NUM = number, ORD = ordinal; both appear in the Beginner units on numbers."
+    },
+    "def": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 220,
+      "description": "English definition, learner-friendly and CEFR-matched. Lowercase start and no trailing full stop, matching the demo data."
+    },
+    "ex": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 220,
+      "description": "English example sentence."
+    },
+    "exTm": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 240,
+      "description": "Turkmen translation of the example sentence."
+    },
+    "exRu": {
+      "type": "string",
+      "maxLength": 240,
+      "pattern": ".*[\\u0400-\\u04FF].*",
+      "description": "Optional Russian translation of the example sentence."
+    },
+    "syn": {
+      "type": "string",
+      "maxLength": 120,
+      "description": "Synonyms as a single comma-separated STRING (the app prints w.syn directly). Use \"—\" when there are none, as the demo data does."
+    },
+    "coll": {
+      "type": "string",
+      "maxLength": 160,
+      "description": "Collocations as a single comma-separated STRING. Use \"—\" when there are none."
+    },
+    "cefr": {
+      "enum": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "description": "CEFR level of the headword."
+    },
+    "ox": {
+      "enum": [
+        "Oxford 3000",
+        "Oxford 5000",
+        "Academic"
+      ],
+      "description": "Word-list badge text, printed verbatim on the word detail card."
+    },
+    "stage": {
+      "enum": [
+        "New",
+        "Learning",
+        "Practicing",
+        "Remembered",
+        "Mastered"
+      ],
+      "description": "Memory stage label. MUST be one of these five: app-yatla.html looks up STAGE_C[w.stage] for the chip colour and t(STAGE_K[w.stage]) for the label. Any other value renders background:undefined and the raw key."
+    },
+    "books": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Where this word is taught. `book` uses the app's BOOKS ids: beg, ele, pre, int, upp, adv, intp, advp (these drive the bk_* i18n keys). `unit` is the unit number; `lesson` is the English File lesson inside that unit (1A, 1B, 1C, 2A, ...) — English File teaches every unit as three lessons and the Vocabulary Bank maps onto those lessons, so a word belongs to a lesson, not just to a unit.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "book",
+          "unit"
+        ],
+        "properties": {
+          "book": {
+            "enum": [
+              "beg",
+              "ele",
+              "pre",
+              "int",
+              "upp",
+              "adv",
+              "intp",
+              "advp"
+            ]
+          },
+          "unit": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "The unit this book teaches the word in. Positive whole number; there is no ceiling, because not every book has twelve units."
+          },
+          "page": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 400
+          },
+          "lesson": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9 .-]{0,23}$",
+            "description": "Lesson inside the unit, e.g. 1A. The letter is A, B or C; the number must equal `unit`."
+          },
+          "section": {
+            "enum": [
+              "vocabulary",
+              "reading",
+              "listening",
+              "grammar",
+              "speaking",
+              "writing",
+              "pronunciation",
+              "practical_english",
+              "vocabulary_bank",
+              "wordbuilding",
+              "revise_and_check",
+              "dialogue",
+              "exercise"
+            ],
+            "description": "Which part of the lesson introduced the item (spec §8 content type). Derived from the source only when the source location is known; see `confidence`. Never guessed from topic similarity."
+          }
+        }
+      }
+    },
+    "confidence": {
+      "enum": ["high", "medium", "low"],
+      "default": "high",
+      "description": "Extraction confidence (spec §14). high = explicitly listed, defined, glossed or drilled as target vocabulary; medium = strong contextual evidence the book intentionally introduces it; low = it merely occurs in a text. low items must never be auto-merged into the shipped word bank. Curated entries imported from the Vocabulary Bank and in-lesson VOCABULARY boxes are high by definition."
+    },
+    "proofread": {
+      "type": "boolean",
+      "default": false,
+      "description": "Set true only after a native TM/RU speaker has checked tm, ru and exTm. Validator reports the un-proofread count."
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+        "enum": [
+          "survival",
+          "school",
+          "work",
+          "travel",
+          "family",
+          "food",
+          "health",
+          "tech",
+          "nature",
+          "high-frequency"
+        ]
+      },
+      "description": "Optional thematic tags used for lesson grouping."
+    }
+  }
+}

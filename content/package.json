@@ -1,0 +1,19 @@
+{
+  "name": "yatla-content",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ýatla vocabulary pipeline: per-book generators, merge, validation, bundles",
+  "scripts": {
+    "merge": "python3 tools/merge_packs.py",
+    "validate": "node tools/validate.js merged",
+    "build": "node tools/build.js --data merged",
+    "test": "npm run build && node tools/test-loader.js",
+    "check": "node --check loader/yatla-content.js && node --check tools/validate.js && node --check tools/build.js && node --check tools/test-loader.js && npm run merge && npm run test"
+  },
+  "devDependencies": {
+    "ajv": "^8.12.0"
+  },
+  "dependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
